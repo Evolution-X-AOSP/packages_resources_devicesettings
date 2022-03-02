@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017-2022 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Device specific settings -->
+    <string name="device_settings_app_name">الإعدادات المتقدمة</string>
+    <!-- Device gestures panel -->
+    <string name="screen_gestures_panel_title">الإيماءات</string>
+    <!-- Touchscreen gesture haptic feedback -->
+    <string name="touchscreen_gesture_extras">الإضافات</string>
+    <string name="touchscreen_gesture_haptic_feedback">اهتزاز عند النقر</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">الاهتزاز عند التعرف على إيماءة لمس</string>
+    <!-- Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">إيماءات اللمس</string>
+    <string name="touchscreen_gesture_settings_summary">عمل إيماءات لمس متعددة لإجراءات سريعة</string>
+    <string name="gesture_display_title">إيماءات الشاشة المقفلة</string>
+    <string name="touchscreen_c_gesture_title">الكاميرا</string>
+    <string name="touchscreen_c_gesture_summary">ارسم \"C\" لتنشيط الكاميرا</string>
+    <string name="touchscreen_e_gesture_title">البريد الإلكتروني</string>
+    <string name="touchscreen_e_gesture_summary">ارسم \"e\" لفتح تطبيق البريد الإلكتروني</string>
+    <string name="touchscreen_m_gesture_title">الرسائل</string>
+    <string name="touchscreen_m_gesture_summary">ارسم \"M\" لفتح تطبيق المراسلة</string>
+    <string name="touchscreen_s_gesture_title">الرسائل</string>
+    <string name="touchscreen_s_gesture_summary">ارسم \"S\" لفتح تطبيق المراسلة</string>
+    <string name="touchscreen_v_gesture_title">الاتصال</string>
+    <string name="touchscreen_v_gesture_summary">ارسم \"V\" لفتح تطبيق الاتصال</string>
+    <string name="touchscreen_w_gesture_title">المتصفح</string>
+    <string name="touchscreen_w_gesture_summary">ارسم \"W\" لفتح تطبيق المتصفح</string>
+    <string name="touchscreen_z_gesture_title">ضوء الفلاش</string>
+    <string name="touchscreen_z_gesture_summary">ارسم \"Z\" لتشغيل او إيقاف الفلاش</string>
+    <string name="touchscreen_flashlight_gesture_title">ضوء الفلاش</string>
+    <string name="touchscreen_flashlight_gesture_summary">ارسم دائرة لتشغيل او إيقاف الفلاش</string>
+    <string name="touchscreen_music_gesture_title">الموسيقى</string>
+    <string name="touchscreen_music_gesture_summary">استخدام الإيماءات للتحكم في تشغيل الموسيقى \n
+    • قم بالسحب لأسفل من أجل التشغيل أوالإيقاف المؤقت\n
+    • قم بالسحب لليسار لمسار الموسيقى السابق\n
+    • قم بالسحب لليمين لمسار الموسيقى التالي</string>
+    <string name="touchscreen_swipe_up_title">السحب للأعلى</string>
+    <string name="touchscreen_swipe_right_title">السحب لليمين</string>
+    <string name="touchscreen_swipe_down_title">السحب للأسفل</string>
+    <string name="touchscreen_swipe_left_title">السحب لليسار</string>
+    <!-- User-aware display -->
+    <string name="user_aware_display_title">شاشة المستخدم اليقظ</string>
+    <string name="user_aware_display_summary">إبقاء الشاشة قيد التشغيل بينما يكون المستخدم أمام الشاشة</string>
+    <!-- Ambient Display -->
+    <string name="ambient_display_title">العرض المحيطي</string>
+    <string name="ambient_display_enable_title">استخدام العرض المحيط</string>
+    <string name="ambient_display_enable_summary">إيقاظ الشاشة عند تلقي إشعارات</string>
+    <string name="ambient_display_gestures_title">إيماءات العرض المحيطي</string>
+    <string name="ambient_display_gestures_summary">إيماءات إضافية لإيقاظ الشاشة</string>
+    <string name="ambient_display_summary">إيقاظ الشاشة عند تلقي إشعارات</string>
+    <string name="ambient_display_summary_on">سيتم إيقاظ الشاشة عند تلقي الإشعارات</string>
+    <string name="ambient_display_summary_off">لن يتم إيقاظ الشاشة عند تلقي الإشعارات</string>
+    <string name="ambient_display_always_on_title">دائماً مفعل</string>
+    <string name="ambient_display_always_on_summary">إظهار الوقت، رموز الإشعارات ومعلومات أخرى. يزيد من إستخدام البطارية.</string>
+    <!-- Tilt sensor -->
+    <string name="tilt_sensor_title">مستشعر الميل</string>
+    <!-- Pickup sensor -->
+    <string name="pickup_sensor_title">مستشعر الألتقاط</string>
+    <!-- Proximity sensor -->
+    <string name="proximity_sensor_title">مستشعر القرب</string>
+    <!-- Hand wave gesture -->
+    <string name="hand_wave_gesture_title">التلويح باليد</string>
+    <string name="hand_wave_gesture_summary">إشعارات نبضية عند التلويح باليد</string>
+    <string name="hand_wave_gesture_flat_title">كشف الاتجاه</string>
+    <string name="hand_wave_gesture_flat_summary">النبض فقط إذا كان الهاتف وجهه لأعلى وعلى سطح مستوي</string>
+    <!-- Pick-up gesture -->
+    <string name="pick_up_gesture_title">الالتقاط</string>
+    <string name="pick_up_gesture_summary">إشعارات نبضية عند التقاط الهاتف</string>
+    <string name="pick_up_wake_gesture_summary">ايقاظ الجهاز عند الالتقاط</string>
+    <!-- Pocket gesture -->
+    <string name="pocket_gesture_title">الجيب</string>
+    <string name="pocket_gesture_summary">إخطارات انبثاقية عند الإخراج من الجيب</string>
+    <!-- Proximity wake -->
+    <string name="proximity_wake_title">مستشعر القرب للإيقاض</string>
+    <string name="proximity_wake_enable_title">مستشعر القرب للإيقاض</string>
+    <string name="proximity_wake_enable_summary">ايقاظ الجهاز عند التلويح باليد</string>
+    <!-- Device actions -->
+    <string name="actions_title">الإجراءات</string>
+    <!-- Camera gesture -->
+    <string name="camera_gesture_title">اللف المزدوج</string>
+    <string name="camera_gesture_summary">فتح الكاميرا عند استخدام إيماءة اللف المزدوج</string>
+    <!-- Chop-chop gesture -->
+    <string name="chop_chop_gesture_title">الهز مرتين</string>
+    <string name="chop_chop_gesture_summary">تشغيل او إيقاف ضوء الفلاش عند إستخدام إيماءة هز الهاتف مرتين</string>
+    <!-- Hand wave silencer gesture -->
+    <string name="hand_wave_silencer_title">التلويح للصمت</string>
+    <string name="hand_wave_silencer_summary">إسكات المكالمات الواردة بالتلويح بيدك أمام الشاشة</string>
+    <!-- Flip to mute gesture -->
+    <string name="flip_to_mute_title">قلب الهاتف لتفعيل وضع عدم الإزعاج</string>
+    <string name="flip_to_mute_summary">ضع وجه الهاتف للأسفل لتمكين وضع الصامت للإشعارات والمكالمات</string>
+    <!-- Do Not Disturb access -->
+    <string name="dnd_access">يرجى منح وضع عدم الإزعاج الوصول إلى إجراءات CMactions من أجل استخدام هذه الميزة.</string>
+    <!-- Lift to silence gesture -->
+    <string name="lift_to_silence_title">الالتقاط لإيقاف الرنين</string>
+    <string name="lift_to_silence_summary">إرفع الهاتف لإسكات المكالمات الواردة. تعمل فقط عندما يكون هاتفك في وضع أفقي</string>
+    <!-- Action toggles -->
+    <string name="action_none">تعطيل</string>
+    <string name="action_launch_camera">تشغيل الكاميرا</string>
+    <string name="action_torch">تبديل المصباح</string>
+    <!-- Feedback intensity -->
+    <string name="feedback_intensity_title">قوة الاهتزاز</string>
+    <string name="feedback_intensity_summary">قوة رد الفعل الإهتزازي لإجراءات اللف والهز المزدوجة</string>
+    <string name="feedback_intensity_none">معطل</string>
+    <string name="feedback_intensity_low">منخفض</string>
+    <string name="feedback_intensity_medium">متوسط</string>
+    <string name="feedback_intensity_high">عالي</string>
+    <!-- Dialog texts -->
+    <string name="dialog_ok">موافق</string>
+    <!-- Generic texts -->
+    <string name="disabled">معطل</string>
+    <!-- Help texts -->
+    <string name="doze_settings_help_title">مساعدة</string>
+    <string name="doze_settings_help_text">تستخدم هذه الميزات أحداث المستشعر لإطلاق نبضة إخطار بالتوقف عن العمل. يتم تمكين المستشعر المختار فقط عندما يتلقى الجهاز إشعارًا ، وهذا يساعد في تقليل استخدام البطارية. هناك أيضًا خِيار لتمكين المستشعر المختار بمجرد إيقاف تشغيل الشاشة ، سيؤدي ذلك إلى زيادة استخدام البطارية.</string>
+    <!-- Button settings -->
+    <string name="button_panel_title">أزرار إضافية</string>
+    <string name="button_swap_title">تبديل الأزرار</string>
+    <string name="button_swap_summary">قم بتبديل ترتيب زري التطبيقات الحديثة والرجوع</string>
+    <!-- Fingerprint -->
+    <string name="fingerprint_title">بصمة الأصبع</string>
+    <string name="fingerprint_as_home_title">البصمة كزر الرئيسية</string>
+    <string name="fingerprint_as_home_summary">استخدام مستشعر بصمة الأصبع كزر الصفحة الرئيسية</string>
+    <string name="fingerprint_wakeup_title">الإيقاظ ببصمة الإصبع</string>
+    <string name="fingerprint_wakeup_summary">اسمح لجهاز استشعار بصمة الإصبع بتنشيط الجهاز أثناء إيقاف تشغيل الشاشة</string>
+    <string name="fingerprint_pocketmode_title">منع التنشيط الخاطئ</string>
+    <string name="fingerprint_pocketmode_summary">التحقق من مستشعر القرب قبل الإيقاظ المشغّل بواسطة مستشعر بصمة الإصبع</string>
+    <string name="fingerprint_sleep_title">الإطفاء ببصمة الأصبع</string>
+    <string name="fingerprint_sleep_summary">اضغط على حساس بصمة الأصبع لإيقاف تشغيل الشاشة</string>
+    <!-- High touch sensitivity -->
+    <string name="high_touch_sensitivity_title">حساسية عالية للمس</string>
+    <string name="high_touch_sensitivity_summary">زيادة حساسية شاشة اللمس حتى يمكن استخدامها أثناء ارتداء القفازات</string>
+    <!-- Quick charge toggle -->
+    <string name="quick_charge_title">الشحن السريع</string>
+    <string name="quick_charge_summary">تبديل وضع الشحن السريع. قم بإعادة توصيل الشاحن بعد تغيير هذا الإعداد</string>
+    <!-- Camera focus fix toggle -->
+    <string name="camera_focus_fix_title">إصلاح تركيز الكاميرا</string>
+    <string name="camera_focus_fix_summary">فعلها إن كانت هناك مشاكل في تركيز الكاميرا</string>
+    <!-- Wake on gesture -->
+    <string name="wake_on_gesture_title">استيقظ على الإيماءات</string>
+    <string name="wake_on_gesture_summary">إيقاظ الجهاز بدلاً من نبض الإشعارات على أحداث الإيماءات</string>
+</resources>
