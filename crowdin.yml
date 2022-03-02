@@ -1,0 +1,5 @@
+files:
+  - source: /**/values/custom_strings.xml
+    translation: /%original_path%-%android_code%/%original_file_name%
+  - source: /**/values/strings.xml
+    translation: /%original_path%-%android_code%/%original_file_name%
