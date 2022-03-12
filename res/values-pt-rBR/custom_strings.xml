@@ -21,8 +21,8 @@
     <string name="dc_dimming_enable_summary">O modo anti cintilação ajuda a reduzir a fadiga ocular em condições de pouca luz usando o recurso \"DC dimming\". Isso pode degradar a precisão das cores e afetar a forma como alguns itens são exibidos.</string>
     <string name="dc_dimming_enable_summary_not_supported">O modo anti cintilação não é suportado pelo kernel atual</string>
     <!-- Dirac settings -->
-    <string name="dirac_enable">Usar o Amplificador Mi Sound</string>
-    <string name="dirac_title">Amplificador de som Xiaomi</string>
+    <string name="dirac_enable">Usar Mi Sound Enhancer</string>
+    <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Otimizar qualidade de áudio</string>
     <string name="dirac_headset_title">Escolher tipo de fone de ouvido</string>
     <string name="dirac_preset_title">Escolha uma predefinição</string>
@@ -41,7 +41,7 @@
     <string name="dirac_headset_piston_2">Mi Piston 2</string>
     <string name="dirac_headset_piston_standard">Standard Edition</string>
     <string name="dirac_headset_headphone">Mi Headphones</string>
-    <string name="dirac_headset_piston_youth">Edição Youth</string>
+    <string name="dirac_headset_piston_youth">Youth Edition</string>
     <string name="dirac_headset_piston_color">Color Edition</string>
     <string name="dirac_headset_in_ear">Mi In-Ear</string>
     <string name="dirac_headset_capsule">Mi Capsule</string>
@@ -59,7 +59,7 @@
     <string name="dirac_preset_jazz">Jazz</string>
     <string name="dirac_preset_pop">Pop</string>
     <string name="dirac_preset_classical">Clássica</string>
-    <string name="dirac_preset_hiphop">Hip-Hop</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
     <string name="dirac_preset_blues">Blues</string>
     <string name="dirac_preset_electronic">Eletrônica</string>
     <string name="dirac_preset_country">Country</string>
@@ -168,7 +168,7 @@
     <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Perfil de otimização</string>
-    <string name="thermal_summary">Ajuste de perfil de cada aplicativo para melhor desempenho</string>
+    <string name="thermal_summary">Ajustar perfis por aplicativo para um melhor desempenho</string>
     <string name="thermal_default">Não otimizar</string>
     <string name="thermal_benchmark">Desempenho</string>
     <string name="thermal_browser">Navegador</string>
@@ -182,15 +182,15 @@
     <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Taxa de atualização mínima</string>
     <string name="device_power_save_refresh_rate">Economizar bateria automaticamente</string>
-    <string name="device_power_save_refresh_rate_switch">Diminuir automaticamente a taxa de atualização quando a economia de bateria estiver ativa</string>
+    <string name="device_power_save_refresh_rate_switch">Diminuir a taxa de atualização automaticamente quando a economia de bateria estiver ativa</string>
     <string name="refresh_rate_settings_title">Taxa de atualização da tela</string>
     <string name="refresh_rate_settings_summary">Ajustar a taxa de atualização da tela</string>
     <string name="refresh_rate_tile_title">Taxa de atualização</string>
     <string name="refresh_rate_tile_disabled">Economia de bateria ativada</string>
     <!-- Touch Control Settings -->
-    <string name="touch_control_title">Otimizações da tela de toque</string>
+    <string name="touch_control_title">Otimizações da tela sensível ao toque</string>
     <string name="touch_game_mode_title">Ativar modo jogo</string>
-    <string name="touch_game_mode_summary">Ajuda a melhorar a experiência em jogos otimizando a tela de toque</string>
+    <string name="touch_game_mode_summary">Ajuda a melhorar a experiência em jogos otimizando a sensibilidade do toque na tela</string>
     <string name="touch_response_title">Resposta de toque</string>
     <string name="touch_response_summary">Controlar a resposta de toque</string>
     <string name="touch_sensitivity_title">Sensibilidade do toque</string>
@@ -200,13 +200,13 @@
     <!-- Button settings -->
     <string name="button_settings_title">Botões</string>
     <string name="button_swap_summary">Inverter botões de navegação</string>
-    <string name="home_button_extra_settings">Customizar o comportamento do botão de início</string>
+    <string name="home_button_extra_settings">Personalizar o comportamento do botão home</string>
     <!-- Assistant button -->
     <string name="assistant_button_action">Ação da tecla de assistente</string>
     <!-- Stylus pen -->
-    <string name="stylus_title">Caneta Stylus</string>
+    <string name="stylus_title">Caneta S Pen</string>
     <!-- High Brightness Mode-->
-    <string name="hbm_title">Modo de alto brilho</string>
+    <string name="hbm_title">Modo de brilho alto</string>
     <!-- LCD Features -->
     <string name="lcd_features_title">Recursos do LCD</string>
     <string name="lcd_features_summary">Modo de brilho alto, CABC</string>
