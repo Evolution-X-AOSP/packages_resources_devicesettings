@@ -28,7 +28,7 @@
     <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">触屏手势</string>
     <string name="touchscreen_gesture_settings_summary">执行各种触摸屏手势以进行快速操作</string>
-    <string name="gesture_display_title">关屏手势</string>
+    <string name="gesture_display_title">屏幕关闭手势</string>
     <string name="touchscreen_c_gesture_title">相机</string>
     <string name="touchscreen_c_gesture_summary">绘制一个“C”来激活相机</string>
     <string name="touchscreen_e_gesture_title">电子邮件</string>
@@ -36,7 +36,7 @@
     <string name="touchscreen_m_gesture_title">信息</string>
     <string name="touchscreen_m_gesture_summary">绘制一个“M”以打开消息应用</string>
     <string name="touchscreen_s_gesture_title">信息</string>
-    <string name="touchscreen_s_gesture_summary">绘制一个“S”以打开消息应用</string>
+    <string name="touchscreen_s_gesture_summary">绘制一个“S”以打开信息应用</string>
     <string name="touchscreen_v_gesture_title">拨号</string>
     <string name="touchscreen_v_gesture_summary">绘制一个“V”以打开拨号应用</string>
     <string name="touchscreen_w_gesture_title">浏览器</string>
