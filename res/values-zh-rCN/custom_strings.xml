@@ -18,22 +18,22 @@
     <!-- DC Dimming settings -->
     <string name="display_title">显示</string>
     <string name="dc_dimming_enable_title">防闪烁</string>
-    <string name="dc_dimming_enable_summary">防闪烁模式可以通过”DC 调光“功能，减少暗光条件下的眼部疲劳。此模式可能降低色彩精度，并影响部分内容的显示效果。</string>
+    <string name="dc_dimming_enable_summary">防闪烁模式可以通过 DC 调光功能，减少暗光条件下的眼部疲劳。此模式可能降低色彩精度，并影响部分内容的显示效果</string>
     <string name="dc_dimming_enable_summary_not_supported">当前内核不支持防闪烁模式</string>
     <!-- Dirac settings -->
     <string name="dirac_enable">使用米音提升音质</string>
-    <string name="dirac_title">使用米音提升音质</string>
+    <string name="dirac_title">米音增强器</string>
     <string name="dirac_summary">优化音质</string>
-    <string name="dirac_headset_title">耳机类型设置</string>
-    <string name="dirac_preset_title">请选择预设效果</string>
+    <string name="dirac_headset_title">选择耳机类型</string>
+    <string name="dirac_preset_title">选择预设</string>
     <!-- Dirac settings: Hi-Fi -->
-    <string name="dirac_hifi_title">使用 Hi-Fi 高保真播放</string>
-    <string name="dirac_hifi_summary">高度还原音源信息，原汁原味</string>
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">降低噪音和失真，并提高音频质量</string>
     <string name="dirac_hifi_enable_title">启用 HI-FI</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">默认​​​​​</string>
-    <string name="dirac_headset_earbuds">小米耳塞式</string>
-    <string name="dirac_headset_in_ear_2013">小米圈铁 (2013)</string>
+    <string name="dirac_headset_earbuds">小米耳塞</string>
+    <string name="dirac_headset_in_ear_2013">小米入耳式 (2013)</string>
     <string name="dirac_headset_piston_1">小米活塞 1</string>
     <string name="dirac_headset_general">通用</string>
     <string name="dirac_headset_general_inear">通用入耳式</string>
@@ -69,7 +69,7 @@
     <!-- Popup camera settings -->
     <string name="popup_settings_title">升降摄像头设置</string>
     <string name="popup_led_title">升降摄像头灯效</string>
-    <string name="popup_led_summary">前置摄像头升降时亮起</string>
+    <string name="popup_led_summary">前置摄像头升降时显示 LED 灯</string>
     <string name="popup_sound_title">音效</string>
     <string name="popup_title_muqin">木琴</string>
     <string name="popup_title_yingyan">鹰眼</string>
@@ -106,8 +106,8 @@
     <string name="fingerprint_gestures_manage_summary">管理指纹手势</string>
     <string name="fingerprint_actions_screenon">亮屏动作</string>
     <!-- Fingerprint gestures screen off -->
-    <string name="fingerprint_gestures_screenoff_title">屏幕关闭时指纹手势</string>
-    <string name="fingerprint_gestures_screenoff_summary">屏幕关闭时使用指纹手势。\n\n必须禁用指纹解锁才能使用此功能。</string>
+    <string name="fingerprint_gestures_screenoff_title">屏幕关闭时的指纹手势</string>
+    <string name="fingerprint_gestures_screenoff_summary">屏幕关闭时使用指纹手势。\n\n必须禁用指纹解锁才能使用此功能</string>
     <string name="fingerprint_actions_screenoff">屏幕关闭时的动作</string>
     <!-- Actions -->
     <string name="action_home">主屏幕</string>
@@ -115,8 +115,8 @@
     <string name="action_wake">唤醒</string>
     <string name="action_back">返回</string>
     <string name="action_recents">最近任务</string>
-    <string name="action_last_app">最后使用的应用</string>
-    <string name="action_volume_up">增大音量</string>
+    <string name="action_last_app">上一个应用</string>
+    <string name="action_volume_up">提高音量</string>
     <string name="action_volume_down">减小音量</string>
     <string name="action_voice_assistant">语音助手</string>
     <string name="action_play_pause">播放/暂停</string>
@@ -144,23 +144,23 @@
     <string name="long_tap_dlg_title">长按行为</string>
     <!-- Double tap to wake -->
     <string name="tap_to_wake">点击以唤醒</string>
-    <string name="tap_to_wake_summary">双击屏幕唤醒设备</string>
+    <string name="tap_to_wake_summary">在屏幕上的任意位置点按两次即可唤醒设备</string>
     <!-- Proximity sensor -->
-    <string name="allow_proximity_sensor_title">打开距离传感器</string>
-    <string name="allow_proximity_sensor_summary">在执行操作前检查距离传感器</string>
+    <string name="allow_proximity_sensor_title">允许接近传感器</string>
+    <string name="allow_proximity_sensor_summary">在执行操作之前检查接近传感器</string>
     <!-- OnePlus - General -->
     <string name="oneplus_advanced_settings">一加设置</string>
-    <string name="oneplus_advanced_settings_summary">设备自定义设置</string>
+    <string name="oneplus_advanced_settings_summary">为您的设备自定义设置</string>
     <!-- OnePlus - PanelModes -->
-    <string name="panel_modes_settings_title">平板模式</string>
-    <string name="panel_modes_settings_summary">选择预设显示校准</string>
+    <string name="panel_modes_settings_title">面板模式</string>
+    <string name="panel_modes_settings_summary">选择预设的显示校准</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">三段式开关</string>
+    <string name="notification_slider_category_title">警报滑块</string>
     <string name="notification_slider_selection_dialog_title">操作</string>
     <string name="notification_slider_top_position">顶部位置</string>
     <string name="notification_slider_middle_position">中间位置</string>
     <string name="notification_slider_bottom_position">底部位置</string>
-    <string name="notification_slider_mode_total_silence">完全静音</string>
+    <string name="notification_slider_mode_total_silence">完全阻止</string>
     <string name="notification_slider_mode_alarms_only">仅限闹铃</string>
     <string name="notification_slider_mode_priority_only">仅限优先</string>
     <string name="notification_slider_mode_silent">静音</string>
@@ -213,9 +213,9 @@
     <string name="lcd_hbm_title">高亮度模式</string>
     <string name="lcd_hbm_tile_title">高亮度模式</string>
     <string name="lcd_cabc_title">动态背光控制模式</string>
-    <string name="lcd_features_info">高亮度模式可以提升屏幕的最大亮度，以改善阳光下的可读性，但会增加电量消耗。\n\n动态背光控制可以根据当前的显示内容调整背光强度，在不损失显示质量的前提下减少电量消耗。</string>
+    <string name="lcd_features_info">高亮度模式可以提升屏幕的最大亮度，以改善阳光下的可读性，但会增加电量消耗。\n\n动态背光控制可以根据当前的显示内容调整背光强度，在不损失显示质量的前提下减少电量消耗</string>
     <!-- Always on brightness -->
-    <string name="doze_brightness_title">屏幕常亮时的亮度</string>
+    <string name="doze_brightness_title">总是亮着</string>
     <string name="doze_brightness_summary">%s 模式已开启</string>
     <string name="doze_brightness_low">低亮度</string>
     <string name="doze_brightness_high">高亮度</string>
