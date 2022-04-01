@@ -210,14 +210,30 @@
     <!-- LCD Features -->
     <string name="lcd_features_title">LCD возможности</string>
     <string name="lcd_features_summary">Режим высокой яркости, CABC</string>
+    <string name="lcd_features_info">Режим высокой яркости (HBM) увеличивает максимальную яркость дисплея для улучшения видимости при солнечном свете. Увеличивает энергопотребление.\n\nCABC (Адаптивное управление подсветкой контента) регулирует яркость дисплея и подсветки в зависимости от текущего отображаемого контента, чтобы снизить энергопотребление без ухудшения качества.</string>
+    <string name="kernel_not_supported">Ядро не поддерживает эту функцию</string>
     <string name="lcd_hbm_title">Режим высокой яркости (HBM)</string>
     <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_hbm_title_enabled">Включено</string>
+    <string name="lcd_hbm_title_disabled">Отключено</string>
     <string name="lcd_cabc_title">Режим CABC</string>
-    <string name="lcd_features_info">Режим высокой яркости (HBM) увеличивает максимальную яркость дисплея для улучшения видимости при солнечном свете. Увеличивает энергопотребление.\n\nCABC (Адаптивное управление подсветкой контента) регулирует яркость дисплея и подсветки в зависимости от текущего отображаемого контента, чтобы снизить энергопотребление без ухудшения качества.</string>
+    <string name="lcd_cabc_tile_title">CABC</string>
+    <string name="lcd_cabc_off">Выкл.</string>
+    <string name="lcd_cabc_low">Низкий (UI)</string>
+    <string name="lcd_cabc_medium">Средний (видео)</string>
+    <string name="lcd_cabc_high">Высокий (изображения)</string>
     <!-- Always on brightness -->
     <string name="doze_brightness_title">Яркость всегда включённого экрана</string>
     <string name="doze_brightness_summary">%s режим включен</string>
     <string name="doze_brightness_low">Низкий уровень яркости</string>
     <string name="doze_brightness_high">Высокий уровень яркости</string>
     <string name="doze_brightness_adaptive">Адаптивная регулировка</string>
+    <!-- Refresh Rate per-app -->
+    <string name="refresh_title">Частота обновления для приложений</string>
+    <string name="refresh_summary">Установите свою частоту обновления для отдельных приложений</string>
+    <string name="refresh_default">По умолчанию</string>
+    <string name="refresh_low">Низкая (30Hz)</string>
+    <string name="refresh_medium">Средняя (60Hz)</string>
+    <string name="refresh_high">Высокая (90Hz)</string>
+    <string name="refresh_extreme">Экстремальная (120Hz)</string>
 </resources>
