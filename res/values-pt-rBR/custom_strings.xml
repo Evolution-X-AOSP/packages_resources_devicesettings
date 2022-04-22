@@ -167,7 +167,7 @@
     <string name="notification_slider_mode_vibrate">Vibrar</string>
     <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Perfil de otimização</string>
+    <string name="thermal_title">Perfis de otimização</string>
     <string name="thermal_summary">Ajustar perfis por aplicativo para um melhor desempenho</string>
     <string name="thermal_default">Não otimizar</string>
     <string name="thermal_benchmark">Desempenho</string>
@@ -210,14 +210,30 @@
     <!-- LCD Features -->
     <string name="lcd_features_title">Recursos do LCD</string>
     <string name="lcd_features_summary">Modo de brilho alto, CABC</string>
+    <string name="lcd_features_info">O modo de brilho máximo (HBM) aumenta o brilho máximo da tela para melhorar a visibilidade sob a luz solar mas também aumenta o consumo de energia.\n\nO modo CABC (Content Adaptive Backlight Control) ajusta o brilho da tela e da retroiluminação tendo por base o conteúdo mostrado, reduzindo assim o consumo de energia sem degradar a qualidade da imagem.</string>
+    <string name="kernel_not_supported">O Kernel não suporta esta função</string>
     <string name="lcd_hbm_title">Modo de brilho máximo (HBM)</string>
     <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_hbm_title_enabled">Ativado</string>
+    <string name="lcd_hbm_title_disabled">Desativado</string>
     <string name="lcd_cabc_title">Modo CABC</string>
-    <string name="lcd_features_info">O modo de brilho máximo (HBM) aumenta o brilho máximo da tela para melhorar a visibilidade sob a luz solar mas também aumenta o consumo de energia.\n\nO modo CABC (Content Adaptive Backlight Control) ajusta o brilho da tela e da retroiluminação tendo por base o conteúdo mostrado, reduzindo assim o consumo de energia sem degradar a qualidade da imagem.</string>
+    <string name="lcd_cabc_tile_title">CABC</string>
+    <string name="lcd_cabc_off">Desligado</string>
+    <string name="lcd_cabc_low">Baixa (UI)</string>
+    <string name="lcd_cabc_medium">Médio (Vídeos)</string>
+    <string name="lcd_cabc_high">Alta (Imagens)</string>
     <!-- Always on brightness -->
     <string name="doze_brightness_title">Modo de brilho sempre ativo</string>
     <string name="doze_brightness_summary">%s o modo está ativado</string>
     <string name="doze_brightness_low">Brilho baixo</string>
     <string name="doze_brightness_high">Brilho alto</string>
     <string name="doze_brightness_adaptive">Brilho adaptável</string>
+    <!-- Refresh Rate per-app -->
+    <string name="refresh_title">Taxa de atualização por aplicativo</string>
+    <string name="refresh_summary">Usar taxa de atualização específica para cada aplicativo</string>
+    <string name="refresh_default">Padrão</string>
+    <string name="refresh_low">Baixa (30Hz)</string>
+    <string name="refresh_medium">Médio (60Hz)</string>
+    <string name="refresh_high">Alto (90Hz)</string>
+    <string name="refresh_extreme">Extremo (120Hz)</string>
 </resources>
