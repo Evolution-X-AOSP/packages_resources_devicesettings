@@ -206,17 +206,17 @@
     <!-- Stylus pen -->
     <string name="stylus_title">Caneta S Pen</string>
     <!-- High Brightness Mode-->
-    <string name="hbm_title">Modo de brilho alto</string>
+    <string name="hbm_title">Modo de alto brilho</string>
     <!-- LCD Features -->
     <string name="lcd_features_title">Recursos do LCD</string>
-    <string name="lcd_features_summary">Modo de brilho alto, CABC</string>
-    <string name="lcd_features_info">O modo de brilho máximo (HBM) aumenta o brilho máximo da tela para melhorar a visibilidade sob a luz solar mas também aumenta o consumo de energia.\n\nO modo CABC (Content Adaptive Backlight Control) ajusta o brilho da tela e da retroiluminação tendo por base o conteúdo mostrado, reduzindo assim o consumo de energia sem degradar a qualidade da imagem.</string>
+    <string name="lcd_features_summary">Modo de alto brilho (HBM) &amp; Controle de luz de fundo adaptável ao conteúdo (CABC)</string>
+    <string name="lcd_features_info">Modo de alto brilho (HBM) aumenta o brilho máximo da tela para melhorar a visibilidade em ambientes claros. Aumenta o consumo de energia.\n\nControle de luz de fundo adaptável ao conteúdo (CABC) ajusta a tela e o brilho da luz de fundo baseado no conteúdo apresentado, para reduzir o consumo de energia sem perda de qualidade.</string>
     <string name="kernel_not_supported">O Kernel não suporta esta função</string>
-    <string name="lcd_hbm_title">Modo de brilho máximo (HBM)</string>
+    <string name="lcd_hbm_title">Modo de alto brilho</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Ativado</string>
     <string name="lcd_hbm_title_disabled">Desativado</string>
-    <string name="lcd_cabc_title">Modo CABC</string>
+    <string name="lcd_cabc_title">Controle de luz de fundo adaptável ao conteúdo</string>
     <string name="lcd_cabc_tile_title">(CABC)</string>
     <string name="lcd_cabc_off">Desligado</string>
     <string name="lcd_cabc_low">Baixa (UI)</string>
@@ -233,7 +233,7 @@
     <string name="refresh_summary">Usar taxa de atualização específica para cada aplicativo</string>
     <string name="refresh_default">Padrão</string>
     <string name="refresh_low">Baixa (30Hz)</string>
-    <string name="refresh_medium">Médio (60Hz)</string>
-    <string name="refresh_high">Alto (90Hz)</string>
-    <string name="refresh_extreme">Extremo (120Hz)</string>
+    <string name="refresh_medium">Média (60Hz)</string>
+    <string name="refresh_high">Alta (90Hz)</string>
+    <string name="refresh_extreme">Extrema (120Hz)</string>
 </resources>
