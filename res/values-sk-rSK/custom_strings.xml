@@ -236,4 +236,7 @@
     <string name="refresh_medium">Stredná (60Hz)</string>
     <string name="refresh_high">Vysoká (90 Hz)</string>
     <string name="refresh_extreme">Extrémna (120Hz)</string>
+    <!-- Powershare -->
+    <string name="powershare_enable_title">Powershare</string>
+    <string name="powershare_enable_summary">Použite bezdrôtové pripojenie na zdieľanie energie s inými zariadeniami.</string>
 </resources>
