@@ -236,4 +236,7 @@
     <string name="refresh_medium">متوسط (60 هرتز)</string>
     <string name="refresh_high">عالي (90 هرتز)</string>
     <string name="refresh_extreme">فائق (120 هرتز)</string>
+    <!-- Powershare -->
+    <string name="powershare_enable_title">مشاركة الطاقة</string>
+    <string name="powershare_enable_summary">استخدم الشحن اللاسلكي لمشاركة الطاقة مع الأجهزة الأخرى.</string>
 </resources>
