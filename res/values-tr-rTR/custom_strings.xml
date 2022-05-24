@@ -236,4 +236,7 @@
     <string name="refresh_medium">Orta (60Hz)</string>
     <string name="refresh_high">Yüksek (90Hz)</string>
     <string name="refresh_extreme">Çok yüksek (120Hz)</string>
+    <!-- Powershare -->
+    <string name="powershare_enable_title">Güç paylaşımı</string>
+    <string name="powershare_enable_summary">Diğer cihazlarla güç paylaşımı için kablosuz bağlantı kullanın.</string>
 </resources>

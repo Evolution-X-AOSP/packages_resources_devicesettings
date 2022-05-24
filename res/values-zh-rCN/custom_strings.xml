@@ -236,4 +236,7 @@
     <string name="refresh_medium">中 (60Hz)</string>
     <string name="refresh_high">高 (90Hz)</string>
     <string name="refresh_extreme">极限 (120Hz)</string>
+    <!-- Powershare -->
+    <string name="powershare_enable_title">电源共享</string>
+    <string name="powershare_enable_summary">使用无线将您的电力分享给其他设备</string>
 </resources>

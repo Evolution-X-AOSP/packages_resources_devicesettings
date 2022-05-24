@@ -236,4 +236,7 @@
     <string name="refresh_medium">Средняя (60Hz)</string>
     <string name="refresh_high">Высокая (90Hz)</string>
     <string name="refresh_extreme">Экстремальная (120Hz)</string>
+    <!-- Powershare -->
+    <string name="powershare_enable_title">Энергия</string>
+    <string name="powershare_enable_summary">Используйте беспроводной доступ зарядки для других устройств.</string>
 </resources>

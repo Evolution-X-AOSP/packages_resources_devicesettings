@@ -236,4 +236,7 @@
     <string name="refresh_medium">中 (60Hz)</string>
     <string name="refresh_high">高 (90Hz)</string>
     <string name="refresh_extreme">最高 (120Hz)</string>
+    <!-- Powershare -->
+    <string name="powershare_enable_title">PowerShare</string>
+    <string name="powershare_enable_summary">他の端末にワイヤレス給電を使用する</string>
 </resources>
