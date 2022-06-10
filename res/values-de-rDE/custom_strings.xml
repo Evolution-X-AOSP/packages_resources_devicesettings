@@ -236,4 +236,7 @@
     <string name="refresh_medium">Mittel (60Hz)</string>
     <string name="refresh_high">Hoch (90Hz)</string>
     <string name="refresh_extreme">Extrem (120Hz)</string>
+    <!-- Powershare -->
+    <string name="powershare_enable_title">Powershare</string>
+    <string name="powershare_enable_summary">Nutze die drahtlose Verbindung, um andere Geräte mit Strom zu versorgen.</string>
 </resources>

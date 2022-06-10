@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Дисплей</string>
+    <string name="dc_dimming_enable_title">Захист від мерехтіння</string>
+    <string name="dc_dimming_enable_summary">Режим проти мерехтіння сприяє зменшенню напруги очей в умовах слабкої освітленості за допомогою функції \"DC Dimming\". Це може погіршити точність кольорів і вплинути на спосіб зображення деяких елементів.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Захист від мерехтіння не підтримується ядром</string>
+    <!-- Dirac settings -->
+    <string name="dirac_enable">Використовувати Mi Sound Enhancer</string>
+    <string name="dirac_title">Mi Sound Enhancer</string>
+    <string name="dirac_summary">Оптимізувати якість звуку</string>
+    <string name="dirac_headset_title">Оберіть тип навушників</string>
+    <string name="dirac_preset_title">Оберіть пресет</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">Зниження шуму та спотворень для поліпшення якості звуку</string>
+    <string name="dirac_hifi_enable_title">Увімкнути Hi-Fi</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">За замовчуванням</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Загальні</string>
+    <string name="dirac_headset_general_inear">Звичайні вкладиші</string>
+    <string name="dirac_headset_piston_basic">Звичайні пістони</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Стандартна версія</string>
+    <string name="dirac_headset_headphone">Навушники Mi</string>
+    <string name="dirac_headset_piston_youth">Молодіжна версія</string>
+    <string name="dirac_headset_piston_color">Кольорова версія</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Навушники Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">За замовчуванням</string>
+    <string name="dirac_preset_rock">Рок</string>
+    <string name="dirac_preset_jazz">Джаз</string>
+    <string name="dirac_preset_pop">Поп</string>
+    <string name="dirac_preset_classical">Класика</string>
+    <string name="dirac_preset_hiphop">Хіп-хоп</string>
+    <string name="dirac_preset_blues">Блюз</string>
+    <string name="dirac_preset_electronic">Електро</string>
+    <string name="dirac_preset_country">Кантрі</string>
+    <string name="dirac_preset_dance">Танцювальна</string>
+    <string name="dirac_preset_metal">Метал</string>
+    <string name="dirac_preset_bass_booster">Підсилення басів</string>
+    <!-- Popup camera settings -->
+    <string name="popup_settings_title">Налаштування висувної камери</string>
+    <string name="popup_led_title">Світлодіод камери</string>
+    <string name="popup_led_summary">Вмикати LED індикацію, коли передня камера висувається та засувається</string>
+    <string name="popup_sound_title">Звукові ефекти</string>
+    <string name="popup_title_muqin">Ксилофон</string>
+    <string name="popup_title_yingyan">Кондор</string>
+    <string name="popup_title_mofa">Магія</string>
+    <string name="popup_title_jijia">Механіка</string>
+    <string name="popup_title_chilun">Шестірня</string>
+    <string name="popup_title_cangmen">Двері каюти</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Увага</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Не вдалося закрити передню камеру кілька разів. Спробуйте відкалібрувати камеру.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Не вдалося відкрити передню камеру кілька разів. Спробуйте відкалібрувати камеру.</string>
+    <string name="popup_camera_calibrate_running">На можна використовувати передню камеру під час калібрування.</string>
+    <string name="popup_camera_calibrate_now">Калібрування</string>
+    <string name="popup_camera_calibrate_failed">Помилка калібрування</string>
+    <string name="popup_camera_calibrate_success">Відкалібровано успішно. Тепер ви можете відкрити передню камеру.</string>
+    <string name="stop_operate_camera_frequently">Ви відкриваєте фронтальну камеру занадто часто.</string>
+    <string name="takeback_camera_front_failed">Не вдалося закрити фронтальну камеру. Повторіть спробу.</string>
+    <string name="popup_camera_front_failed">Не вдалося відкрити фронтальну камеру. Повторіть спробу.</string>
+    <string name="popup_camera_proximity_obstructed">Заберіть руку від датчика наближення, щоб відкрити передню камеру...</string>
+    <!-- Clear Speaker -->
+    <string name="clear_speaker_title">Очищення динаміка</string>
+    <string name="clear_speaker_summary">Програти 30-секундний звук, щоб очистити динамік</string>
+    <string name="clear_speaker_description">Запустіть цю функцію раз або двічі, якщо ви помітите, що ваш динамік трохи засмітився. Встановіть максимальну гучність.\n\nЯкщо динамік засмітився сильно, запустіть цю функцію 2-5 разів, одночасно потрушуючи ваш пристрій, направивши його динаміком вниз.</string>
+    <!-- Moto Actions - Title and summary -->
+    <string name="moto_actions_title">Дії Moto</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Жести пристрою</string>
+    <string name="device_gestures_summary">Керування жестами</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Керування жестами активного екрана</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Жести сканера відбитків</string>
+    <string name="fingerprint_gestures_summary">Використовувати жести сканера відбитків</string>
+    <string name="fingerprint_gestures_manage_summary">Керування жестами сканера відбитків</string>
+    <string name="fingerprint_actions_screenon">Дії при увімкненому екрані</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Жести сканера відбитків при вимкненому екрані</string>
+    <string name="fingerprint_gestures_screenoff_summary">Використовувати жести сканера відбитків при вимкненому екрані.\n\nРозблокування відбитком пальця повинно бути вимкнуто для використання цієї функції.</string>
+    <string name="fingerprint_actions_screenoff">Дії при вимкненому екрані</string>
+    <!-- Actions -->
+    <string name="action_home">Головна</string>
+    <string name="action_power">Екран увімк/вимк</string>
+    <string name="action_wake">Пробудження</string>
+    <string name="action_back">Назад</string>
+    <string name="action_recents">Останні</string>
+    <string name="action_last_app">Останній додаток</string>
+    <string name="action_volume_up">Збільшити гучність</string>
+    <string name="action_volume_down">Зменшити гучність</string>
+    <string name="action_voice_assistant">Голосовий помічник</string>
+    <string name="action_play_pause">Відтворення/Пауза</string>
+    <string name="action_previous_track">Попередній трек</string>
+    <string name="action_next_track">Наступний трек</string>
+    <string name="action_flashlight">Ліхтарик увімк/вимк</string>
+    <string name="action_camera">Відкрити камеру</string>
+    <string name="action_screenshot">Зробити знімок екрану</string>
+    <string name="action_browser">Відкрити браузер</string>
+    <string name="action_dialer">Відкрити \"Телефон\"</string>
+    <string name="action_email">Відкрити поштову програму</string>
+    <string name="action_messages">Відкрити програму для повідомлень</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Керування жестами при вимкненому екрані</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Вибрати дію для свайпу вліво</string>
+    <string name="swipe_right_dlg_title">Вибрати дію для свайпу вправо</string>
+    <string name="swipe_up_dlg_title">Вибрати дію для свайпу вгору</string>
+    <string name="swipe_down_dlg_title">Вибрати дію для свайпу вниз</string>
+    <string name="tap_title">Одинарний дотик</string>
+    <string name="double_tap_title">Подвійний дотик</string>
+    <string name="long_tap_title">Довге натискання</string>
+    <string name="tap_dlg_title">Вибрати дію для одинарного дотику</string>
+    <string name="double_tap_dlg_title">Вибрати дію для подвійного дотику</string>
+    <string name="long_tap_dlg_title">Вибрати дію для довгого дотику</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Пробудження дотиком</string>
+    <string name="tap_to_wake_summary">Двічі торкніться в будь-якому місці екрану, щоб активувати пристрій</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Увімкнути датчик наближення</string>
+    <string name="allow_proximity_sensor_summary">Перевірити датчик наближення перед виконанням дії</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">Налаштування OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Користувацькі налаштування для вашого пристрою</string>
+    <!-- OnePlus - PanelModes -->
+    <string name="panel_modes_settings_title">Режими панелі</string>
+    <string name="panel_modes_settings_summary">Виберіть встановлене калібрування екрана</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">Повзунок сповіщень</string>
+    <string name="notification_slider_selection_dialog_title">Дії</string>
+    <string name="notification_slider_top_position">Зверху</string>
+    <string name="notification_slider_middle_position">Посередині</string>
+    <string name="notification_slider_bottom_position">Знизу</string>
+    <string name="notification_slider_mode_total_silence">Повна тиша</string>
+    <string name="notification_slider_mode_alarms_only">Лише будильник</string>
+    <string name="notification_slider_mode_priority_only">Лише важливі</string>
+    <string name="notification_slider_mode_silent">Без звуку</string>
+    <string name="notification_slider_mode_vibrate">Вібрація</string>
+    <string name="notification_slider_mode_none">Звичайний</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Профілі оптимізації</string>
+    <string name="thermal_summary">Налаштуйте профілі для оптимальної продуктивності кожного додатку</string>
+    <string name="thermal_default">Без оптимізації</string>
+    <string name="thermal_benchmark">Продуктивність</string>
+    <string name="thermal_browser">Браузер</string>
+    <string name="thermal_camera">Камера</string>
+    <string name="thermal_dialer">Телефон</string>
+    <string name="thermal_gaming">Ігри</string>
+    <string name="thermal_streaming">Потокові додатки</string>
+    <!-- Raise to wake strings-->
+    <string name="raise_to_wake_gesture_title">Підняти для пробудження</string>
+    <string name="raise_to_wake_gesture_summary">Пробудити пристрій замість показу сповіщень</string>
+    <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Мінімальна частота оновлення</string>
+    <string name="device_power_save_refresh_rate">Автоматичне зберігання заряду акумулятора</string>
+    <string name="device_power_save_refresh_rate_switch">Автоматично знижувати частоту оновлення, коли активна економія заряду акумулятора</string>
+    <string name="refresh_rate_settings_title">Частота оновлення екрана</string>
+    <string name="refresh_rate_settings_summary">Налаштувати частоту оновлення екрану</string>
+    <string name="refresh_rate_tile_title">Частота оновлення</string>
+    <string name="refresh_rate_tile_disabled">Режим енергозбереження увімкнено</string>
+    <!-- Touch Control Settings -->
+    <string name="touch_control_title">Оптимізація сенсорного екрану</string>
+    <string name="touch_game_mode_title">Увімкнути ігровий режим</string>
+    <string name="touch_game_mode_summary">Допомагає поліпшити ігровий досвід шляхом оптимізації сенсорного екрана</string>
+    <string name="touch_response_title">Відгук сенсора</string>
+    <string name="touch_response_summary">Керує відгуком</string>
+    <string name="touch_sensitivity_title">Чутливість дотику</string>
+    <string name="touch_sensitivity_summary">Контролює чутливість при повторюваних натисканнях</string>
+    <string name="touch_resistant_title">Нечутлива область</string>
+    <string name="touch_resistant_summary">Знижує чутливість по краях для запобігання випадкових натиснень</string>
+    <!-- Button settings -->
+    <string name="button_settings_title">Кнопки</string>
+    <string name="button_swap_summary">Поміняти місцями кнопки навігації</string>
+    <string name="home_button_extra_settings">Налаштувати поведінку кнопки \"Додому\"</string>
+    <!-- Assistant button -->
+    <string name="assistant_button_action">Дія кнопки помічника</string>
+    <!-- Stylus pen -->
+    <string name="stylus_title">Стилус</string>
+    <!-- High Brightness Mode-->
+    <string name="hbm_title">Режим високої яскравості</string>
+    <!-- LCD Features -->
+    <string name="lcd_features_title">Додаткові можливості дисплея</string>
+    <string name="lcd_features_summary">Режим високої яскравості (HBM) &amp; Адаптивне керування підсвічуванням вмісту (CABC)</string>
+    <string name="lcd_features_info">Режим високої яскравості (HBM) збільшує максимальну кількість яскравості дисплею для покращення видимості під сонцем. Збільшує енергоспоживання.\n\nАдаптивне керування підсвічуванням вмісту (CABC) налаштовує дисплей та яскравість підсвічування на основі поточного зображеного вмісту, для зменшення енергії без деградації.</string>
+    <string name="kernel_not_supported">Ядро не підтримує цю функцію</string>
+    <string name="lcd_hbm_title">Режим високої яскравості (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_hbm_title_enabled">Увімкнено</string>
+    <string name="lcd_hbm_title_disabled">Вимкнено</string>
+    <string name="lcd_cabc_title">Адаптивне керування підсвічуванням вмісту</string>
+    <string name="lcd_cabc_tile_title">CABC</string>
+    <string name="lcd_cabc_off">Вимк.</string>
+    <string name="lcd_cabc_low">Низький (UI)</string>
+    <string name="lcd_cabc_medium">Середній (відео)</string>
+    <string name="lcd_cabc_high">Високий (зображення)</string>
+    <!-- Always on brightness -->
+    <string name="doze_brightness_title">Яскравість завжди ввімкненого екрана</string>
+    <string name="doze_brightness_summary">%s режим увімкнено</string>
+    <string name="doze_brightness_low">Низька яскравість</string>
+    <string name="doze_brightness_high">Висока яскравість</string>
+    <string name="doze_brightness_adaptive">Адаптивна яскравість</string>
+    <!-- Refresh Rate per-app -->
+    <string name="refresh_title">Частота оновлення для кожного додатку</string>
+    <string name="refresh_summary">Встановіть певну частоту оновлення для кожного додатку</string>
+    <string name="refresh_default">За замовчуванням</string>
+    <string name="refresh_low">Низька (30Гц)</string>
+    <string name="refresh_medium">Середня (60Гц)</string>
+    <string name="refresh_high">Висока (90Гц)</string>
+    <string name="refresh_extreme">Екстремальна (120Гц)</string>
+    <!-- Powershare -->
+    <string name="powershare_enable_title">PowerShare</string>
+    <string name="powershare_enable_summary">Використовуйте бездротовий доступ заряджання для інших пристроїв.</string>
+</resources>
