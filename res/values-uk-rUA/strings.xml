@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017-2022 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Device specific settings -->
+    <string name="device_settings_app_name">Додаткові параметри</string>
+    <!-- Device gestures panel -->
+    <string name="screen_gestures_panel_title">Жести</string>
+    <!-- Touchscreen gesture haptic feedback -->
+    <string name="touchscreen_gesture_extras">Додатково</string>
+    <string name="touchscreen_gesture_haptic_feedback">Вібровідгук</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Вібрація при виявленні жестів</string>
+    <!-- Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">Жести сенсорного екрану</string>
+    <string name="touchscreen_gesture_settings_summary">Виконувати різні жести для швидких дій</string>
+    <string name="gesture_display_title">Жести при вимкненому екрані</string>
+    <string name="touchscreen_c_gesture_title">Камера</string>
+    <string name="touchscreen_c_gesture_summary">Намалюйте літеру «C», щоб увімкнути камеру</string>
+    <string name="touchscreen_e_gesture_title">Електронна пошта</string>
+    <string name="touchscreen_e_gesture_summary">Намалюйте літеру «е», щоб відкрити програму пошти</string>
+    <string name="touchscreen_m_gesture_title">Месенджер</string>
+    <string name="touchscreen_m_gesture_summary">Намалюйте літеру «М», щоб відкрити месенджер</string>
+    <string name="touchscreen_s_gesture_title">Обмін повідомленнями</string>
+    <string name="touchscreen_s_gesture_summary">Намалюйте літеру «S», щоб відкрити програму повідомлень</string>
+    <string name="touchscreen_v_gesture_title">Телефон</string>
+    <string name="touchscreen_v_gesture_summary">Намалюйте літеру «V», щоб відкрити програму Телефон</string>
+    <string name="touchscreen_w_gesture_title">Браузер</string>
+    <string name="touchscreen_w_gesture_summary">Намалюйте літеру «W», щоб відкрити браузер</string>
+    <string name="touchscreen_z_gesture_title">Ліхтарик</string>
+    <string name="touchscreen_z_gesture_summary">Намалюйте літеру «Z», щоб увімкнути або вимкнути ліхтарик</string>
+    <string name="touchscreen_flashlight_gesture_title">Ліхтарик</string>
+    <string name="touchscreen_flashlight_gesture_summary">Намалюйте коло, щоб вимкнути/ввімкнути ліхтарик</string>
+    <string name="touchscreen_music_gesture_title">Музика</string>
+    <string name="touchscreen_music_gesture_summary">Використовувати жести для керування музичним плеєром \n
+    • Провести вниз щоб відтворити/зупинити\n
+    • Провести вліво для відтворення попереднього треку\n
+    • Провести вправо для відтворення наступного треку</string>
+    <string name="touchscreen_swipe_up_title">Проведіть вгору</string>
+    <string name="touchscreen_swipe_right_title">Проведіть праворуч</string>
+    <string name="touchscreen_swipe_down_title">Проведіть вниз</string>
+    <string name="touchscreen_swipe_left_title">Проведіть вліво</string>
+    <!-- User-aware display -->
+    <string name="user_aware_display_title">Розумне вимкнення екрана</string>
+    <string name="user_aware_display_summary">Залишати екран ввімкненим поки користувач знаходиться перед ним</string>
+    <!-- Ambient Display -->
+    <string name="ambient_display_title">Активний дисплей</string>
+    <string name="ambient_display_enable_title">Використовувати Активний дисплей</string>
+    <string name="ambient_display_enable_summary">Вмикати екран, коли надходять сповіщення</string>
+    <string name="ambient_display_gestures_title">Жести Активного дисплея</string>
+    <string name="ambient_display_gestures_summary">Додаткові жести для пробудження екрану</string>
+    <string name="ambient_display_summary">Вмикати екран, коли надходять сповіщення</string>
+    <string name="ambient_display_summary_on">Екран буде вмикатися, коли ви отримаєте сповіщення</string>
+    <string name="ambient_display_summary_off">Екран не буде вмикатися, коли ви отримаєте сповіщення</string>
+    <string name="ambient_display_always_on_title">Завжди увімкнено</string>
+    <string name="ambient_display_always_on_summary">Показувати час, значки сповіщення та іншу інформацію. Збільшує споживання батареї.</string>
+    <!-- Tilt sensor -->
+    <string name="tilt_sensor_title">Датчик нахилу</string>
+    <!-- Pickup sensor -->
+    <string name="pickup_sensor_title">Датчик руху</string>
+    <!-- Proximity sensor -->
+    <string name="proximity_sensor_title">Датчик наближення</string>
+    <!-- Hand wave gesture -->
+    <string name="hand_wave_gesture_title">Змах рукою</string>
+    <string name="hand_wave_gesture_summary">Проведіть долонею над екраном для перегляду сповіщень</string>
+    <string name="hand_wave_gesture_flat_title">Визначати положення пристрою</string>
+    <string name="hand_wave_gesture_flat_summary">Показувати сповіщення лише тоді, коли телефон лежить на плоскій поверхні екраном уверх</string>
+    <!-- Pick-up gesture -->
+    <string name="pick_up_gesture_title">Підняття телефону</string>
+    <string name="pick_up_gesture_summary">Показувати сповіщення при підійманні пристрою</string>
+    <string name="pick_up_wake_gesture_summary">Пробуджувати пристрій під час підняття</string>
+    <!-- Pocket gesture -->
+    <string name="pocket_gesture_title">Кишеня</string>
+    <string name="pocket_gesture_summary">Показувати сповіщення при вийманні пристрою з кишені</string>
+    <!-- Proximity wake -->
+    <string name="proximity_wake_title">Пробудження при наближенні</string>
+    <string name="proximity_wake_enable_title">Пробудження при наближенні</string>
+    <string name="proximity_wake_enable_summary">Прокидати пристрій від помаху рукою над ним</string>
+    <!-- Device actions -->
+    <string name="actions_title">Дії</string>
+    <!-- Camera gesture -->
+    <string name="camera_gesture_title">Подвійний поворот</string>
+    <string name="camera_gesture_summary">Запускати камеру при подвійному повороті пристрою</string>
+    <!-- Chop-chop gesture -->
+    <string name="chop_chop_gesture_title">Стук-стук</string>
+    <string name="chop_chop_gesture_summary">Увімкнути або вимкнути ліхтарик при постукуванні</string>
+    <!-- Hand wave silencer gesture -->
+    <string name="hand_wave_silencer_title">Помах для вимикання звуку</string>
+    <string name="hand_wave_silencer_summary">Вимкнути звук виклику, провівши рукою над екраном</string>
+    <!-- Flip to mute gesture -->
+    <string name="flip_to_mute_title">Переверніть для режиму \"Не Турбувати\"</string>
+    <string name="flip_to_mute_summary">Переверніть телефон екраном вниз, щоб відключити звуки повідомлень і викликів</string>
+    <!-- Do Not Disturb access -->
+    <string name="dnd_access">Будь ласка, надайте CMActions доступ до функції «Не турбувати».</string>
+    <!-- Lift to silence gesture -->
+    <string name="lift_to_silence_title">Підняти для вимкнення звуку дзвінка</string>
+    <string name="lift_to_silence_summary">Підніміть телефон, аби приглушити звук виклику. Ця дія спрацює, якщо телефон лежав горизонтально</string>
+    <!-- Action toggles -->
+    <string name="action_none">Вимкнути</string>
+    <string name="action_launch_camera">Запуск камери</string>
+    <string name="action_torch">Ліхтарик</string>
+    <!-- Feedback intensity -->
+    <string name="feedback_intensity_title">Інтенсивність вібровідгуку</string>
+    <string name="feedback_intensity_summary">Сила вібровідгуку для подвійного повороту та Тук-Тук</string>
+    <string name="feedback_intensity_none">Вимкнено</string>
+    <string name="feedback_intensity_low">Низька</string>
+    <string name="feedback_intensity_medium">Середня</string>
+    <string name="feedback_intensity_high">Висока</string>
+    <!-- Dialog texts -->
+    <string name="dialog_ok">OK</string>
+    <!-- Generic texts -->
+    <string name="disabled">Вимкнено</string>
+    <!-- Help texts -->
+    <string name="doze_settings_help_title">Допомога</string>
+    <string name="doze_settings_help_text">Ці функції використовують події датчиків для показу сповіщень. Датчик перевіряється лише під час надходження нової події, що дозволяє економити заряд батареї. Можна активувати датчики одразу після вимкнення екрану пристрою, але це призведе до прискореного розряду батареї.</string>
+    <!-- Button settings -->
+    <string name="button_panel_title">Додаткові кнопки</string>
+    <string name="button_swap_title">Поміняти кнопки місцями</string>
+    <string name="button_swap_summary">Поміняти місцями кнопки \"Нещодавні\" та \"Назад\"</string>
+    <!-- Fingerprint -->
+    <string name="fingerprint_title">Відбиток пальця</string>
+    <string name="fingerprint_as_home_title">Відбиток пальця як кнопка \"Додому\"</string>
+    <string name="fingerprint_as_home_summary">Використовувати сканер відбитків пальців як кнопку \"Додому\"</string>
+    <string name="fingerprint_wakeup_title">Пробудження по сканеру відбитків пальців</string>
+    <string name="fingerprint_wakeup_summary">Дозволити сканеру відбитків пальців пробуджувати пристрій, якщо екран вимкнено</string>
+    <string name="fingerprint_pocketmode_title">Запобігання випадкового пробудження</string>
+    <string name="fingerprint_pocketmode_summary">Перевіряти датчик наближення, виходячи з режиму сну з використанням жестів</string>
+    <string name="fingerprint_sleep_title">Вимикання екрану відбитком</string>
+    <string name="fingerprint_sleep_summary">Торкніться до сенсора відбитку пальців для вимикання екрану</string>
+    <!-- High touch sensitivity -->
+    <string name="high_touch_sensitivity_title">Висока чутливість дотику</string>
+    <string name="high_touch_sensitivity_summary">Підвищити чутливість сенсорного екрана для користування пристроєм у рукавичках</string>
+    <!-- Quick charge toggle -->
+    <string name="quick_charge_title">Швидке заряджання</string>
+    <string name="quick_charge_summary">Увімкнути чи вимкнути швидке заряджання. Повторно під\'єднайте зарядку після зміни параметру</string>
+    <!-- Camera focus fix toggle -->
+    <string name="camera_focus_fix_title">Виправлення фокусу камери</string>
+    <string name="camera_focus_fix_summary">Увімкніть, якщо у вас є проблеми з фокусуванням камери</string>
+    <!-- Wake on gesture -->
+    <string name="wake_on_gesture_title">Пробудження жестами</string>
+    <string name="wake_on_gesture_summary">Пробудження пристрою замість показу сповіщень при використанні жестів</string>
+</resources>
