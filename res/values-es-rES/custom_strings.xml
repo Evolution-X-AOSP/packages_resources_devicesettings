@@ -66,6 +66,18 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Refuerzo de graves</string>
+    <string name="dirac_preset_live">En directo</string>
+    <string name="dirac_preset_balanced">Equilibrado</string>
+    <string name="dirac_preset_bass_reduction">Reducción de graves</string>
+    <string name="dirac_preset_treble_reduction">Reductor de agudos</string>
+    <string name="dirac_preset_soft_bass">Graves suaves</string>
+    <string name="dirac_preset_soft_treble">Agudos suaves</string>
+    <!-- Dirac Scene Selection -->
+    <string name="music_headset_scenario_select">Seleccionar escenario</string>
+    <string name="music_headset_scenario_intelligent">Inteligente</string>
+    <string name="music_headset_scenario_music">Música</string>
+    <string name="music_headset_scenario_video">Vídeo</string>
+    <string name="music_headset_scenario_vocal">Voz</string>
     <!-- Popup camera settings -->
     <string name="popup_settings_title">Ajustes de cámara emergente</string>
     <string name="popup_led_title">LED de cámara</string>
@@ -213,6 +225,7 @@
     <string name="lcd_features_info">El modo de alto brillo HBM (High Brightness Mode) aumenta el brillo máximo de la pantalla para mejorar la visibilidad bajo la luz del sol. Aumenta el consumo de energía.\n\nCABC (Content Adaptive Backlight Control) ajusta el brillo de la pantalla y de la retroiluminación en función del contenido mostrado en ese momento, para reducir el consumo de energía sin degradarlo.</string>
     <string name="kernel_not_supported">Esta función no es soportada por el kernel</string>
     <string name="lcd_hbm_title">Modo de brillo alto</string>
+    <string name="lcd_hbm_summary">Aumenta el brillo de la pantalla bajo la luz del sol</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Activado</string>
     <string name="lcd_hbm_title_disabled">Desactivado</string>
@@ -237,6 +250,6 @@
     <string name="refresh_high">Alto (90 Hz)</string>
     <string name="refresh_extreme">Extremo (120 Hz)</string>
     <!-- Powershare -->
-    <string name="powershare_enable_title">Poder compartido</string>
-    <string name="powershare_enable_summary">Utilice la conexión inalámbrica para compartir su energía con otros dispositivos.</string>
+    <string name="powershare_enable_title">Compartir batería</string>
+    <string name="powershare_enable_summary">Utilice la conexión inalámbrica para compartir su energía con otros dispositivos</string>
 </resources>
