@@ -66,6 +66,18 @@
     <string name="dirac_preset_dance">ダンス</string>
     <string name="dirac_preset_metal">メタル</string>
     <string name="dirac_preset_bass_booster">低音ブースト</string>
+    <string name="dirac_preset_live">ライブ</string>
+    <string name="dirac_preset_balanced">バランス</string>
+    <string name="dirac_preset_bass_reduction">低音の低減</string>
+    <string name="dirac_preset_treble_reduction">高音の低減</string>
+    <string name="dirac_preset_soft_bass">ソフトな低音</string>
+    <string name="dirac_preset_soft_treble">ソフトな高音</string>
+    <!-- Dirac Scene Selection -->
+    <string name="music_headset_scenario_select">シーンを選択</string>
+    <string name="music_headset_scenario_intelligent">スマート</string>
+    <string name="music_headset_scenario_music">音楽</string>
+    <string name="music_headset_scenario_video">ビデオ</string>
+    <string name="music_headset_scenario_vocal">ボイス</string>
     <!-- Popup camera settings -->
     <string name="popup_settings_title">ポップアップカメラの設定</string>
     <string name="popup_led_title">カメラ LED</string>
@@ -213,6 +225,7 @@
     <string name="lcd_features_info">高輝度モード (HBM) は画面の明るさを上げて日光の下での視認性を向上させますが、電池の消費は激しくなります。\n\nCABC モード (コンテンツ自動認識バックライト制御) は画面とバックライトの明るさを現在表示されているコンテンツに合わせて自動的に調節し、品質低下を抑えつつ電池の消費を抑えます。</string>
     <string name="kernel_not_supported">カーネルはこの機能をサポートしていません</string>
     <string name="lcd_hbm_title">高輝度モード (HBM)</string>
+    <string name="lcd_hbm_summary">日光の下で画面の明るさを上げる</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">有効</string>
     <string name="lcd_hbm_title_disabled">無効</string>
