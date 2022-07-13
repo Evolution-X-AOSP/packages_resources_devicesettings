@@ -66,6 +66,18 @@
     <string name="dirac_preset_dance">رقص</string>
     <string name="dirac_preset_metal">معدن</string>
     <string name="dirac_preset_bass_booster">تحسين الجهير</string>
+    <string name="dirac_preset_live">حي</string>
+    <string name="dirac_preset_balanced">متوازن</string>
+    <string name="dirac_preset_bass_reduction">خفض الكتلة</string>
+    <string name="dirac_preset_treble_reduction">تقليل الترددات العالية</string>
+    <string name="dirac_preset_soft_bass">عميق ناعم</string>
+    <string name="dirac_preset_soft_treble">حاد ناعم</string>
+    <!-- Dirac Scene Selection -->
+    <string name="music_headset_scenario_select">اختر السمة</string>
+    <string name="music_headset_scenario_intelligent">ذكي</string>
+    <string name="music_headset_scenario_music">موسيقى</string>
+    <string name="music_headset_scenario_video">فيديو</string>
+    <string name="music_headset_scenario_vocal">الصوت</string>
     <!-- Popup camera settings -->
     <string name="popup_settings_title">إعدادات الكاميرا المنبثقة</string>
     <string name="popup_led_title">ضوء الكاميرا</string>
@@ -213,6 +225,7 @@
     <string name="lcd_features_info">وضع السطوع العالي (HBM) يزيد من أقصى سطوع للعرض لتحسين الرؤية تحت ضوء الشمس. يزيد استهلاك الطاقة.\n\nضبط وحدة تحكم الإضاءة الخلفية المتكيفة للمحتوى (CABC) للعرض وسطوع الإضاءة الخلفية استناداً إلى المحتوى المعروض حالياً، لتقليل استهلاك الطاقة دون تحلل.</string>
     <string name="kernel_not_supported">نواة الجهاز لا تدعم هذه المِيزة</string>
     <string name="lcd_hbm_title">وضع السطوع العالي</string>
+    <string name="lcd_hbm_summary">زيادة سطوع الشاشة تحت ضوء الشمس</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">مفعل</string>
     <string name="lcd_hbm_title_disabled">معطل</string>
