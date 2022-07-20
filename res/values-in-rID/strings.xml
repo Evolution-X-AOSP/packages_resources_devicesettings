@@ -92,6 +92,8 @@
     <string name="proximity_wake_enable_summary">Bangunkan perangkat saat melambaikan tangan</string>
     <!-- Device actions -->
     <string name="actions_title">Tindakan</string>
+    <string name="device_gestures_panel_summary">Gestur perangkat khusus</string>
+    <string name="moto_gestures_panel_title">Gestur Moto</string>
     <!-- Camera gesture -->
     <string name="camera_gesture_title">Putar dua kali</string>
     <string name="camera_gesture_summary">Buka kamera dengan menggunakan gerakan putar dua kali</string>
