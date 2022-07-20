@@ -92,6 +92,8 @@
     <string name="proximity_wake_enable_summary">Acordar dispositivo ao acenar com a mão</string>
     <!-- Device actions -->
     <string name="actions_title">Ações</string>
+    <string name="device_gestures_panel_summary">Gestos exclusivos do dispositivo</string>
+    <string name="moto_gestures_panel_title">Moto Gestos</string>
     <!-- Camera gesture -->
     <string name="camera_gesture_title">Torcer duas vezes</string>
     <string name="camera_gesture_summary">Abrir a câmera usando o gesto de torcer duas vezes</string>
