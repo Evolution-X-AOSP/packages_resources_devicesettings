@@ -92,6 +92,8 @@
     <string name="proximity_wake_enable_summary">Đánh thức thiết bị bằng cách vẫy tay</string>
     <!-- Device actions -->
     <string name="actions_title">Hành động</string>
+    <string name="device_gestures_panel_summary">Cử chỉ đặc biệt</string>
+    <string name="moto_gestures_panel_title">Cử chỉ Moto</string>
     <!-- Camera gesture -->
     <string name="camera_gesture_title">Xoay hai lần</string>
     <string name="camera_gesture_summary">Mở máy ảnh khi sử dụng cử chỉ xoay hai lần</string>

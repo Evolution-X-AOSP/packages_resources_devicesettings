@@ -92,6 +92,8 @@
     <string name="proximity_wake_enable_summary">Despertar el dispositivo al pasar la mano</string>
     <!-- Device actions -->
     <string name="actions_title">Acciones</string>
+    <string name="device_gestures_panel_summary">Gestos especiales del dispositivo</string>
+    <string name="moto_gestures_panel_title">Gestos Motorola</string>
     <!-- Camera gesture -->
     <string name="camera_gesture_title">Doble giro</string>
     <string name="camera_gesture_summary">Abrir cámara cuando se use el gesto de doble giro</string>

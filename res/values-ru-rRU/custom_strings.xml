@@ -66,6 +66,18 @@
     <string name="dirac_preset_dance">Танцевальная</string>
     <string name="dirac_preset_metal">Металл</string>
     <string name="dirac_preset_bass_booster">Усиление басов</string>
+    <string name="dirac_preset_live">Live</string>
+    <string name="dirac_preset_balanced">Сбалансированный</string>
+    <string name="dirac_preset_bass_reduction">Ослабить НЧ</string>
+    <string name="dirac_preset_treble_reduction">Ослабить ВЧ</string>
+    <string name="dirac_preset_soft_bass">Мягкий басс</string>
+    <string name="dirac_preset_soft_treble">Мягкие высокие</string>
+    <!-- Dirac Scene Selection -->
+    <string name="music_headset_scenario_select">Выберите сцену</string>
+    <string name="music_headset_scenario_intelligent">Умный</string>
+    <string name="music_headset_scenario_music">Музыка</string>
+    <string name="music_headset_scenario_video">Видео</string>
+    <string name="music_headset_scenario_vocal">Голос</string>
     <!-- Popup camera settings -->
     <string name="popup_settings_title">Настройки выдвижной камеры</string>
     <string name="popup_led_title">LED индикация камеры</string>
@@ -213,6 +225,7 @@
     <string name="lcd_features_info">Режим высокой яркости (HBM) увеличивает максимальную яркость дисплея для улучшения видимости при солнечном свете. Увеличивает энергопотребление.\n\nCABC (Адаптивное управление подсветкой контента) регулирует яркость дисплея и подсветки в зависимости от текущего отображаемого контента, чтобы снизить энергопотребление без ухудшения качества.</string>
     <string name="kernel_not_supported">Ядро не поддерживает эту функцию</string>
     <string name="lcd_hbm_title">Режим высокой яркости (HBM)</string>
+    <string name="lcd_hbm_summary">Увеличение яркости экрана при солнечном свете</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Включено</string>
     <string name="lcd_hbm_title_disabled">Отключено</string>
@@ -238,5 +251,5 @@
     <string name="refresh_extreme">Экстремальная (120Hz)</string>
     <!-- Powershare -->
     <string name="powershare_enable_title">Энергия</string>
-    <string name="powershare_enable_summary">Используйте беспроводной доступ зарядки для других устройств.</string>
+    <string name="powershare_enable_summary">Заряжайте другие устройства, положив их на заднюю часть телефона</string>
 </resources>
