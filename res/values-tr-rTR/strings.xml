@@ -92,6 +92,8 @@
     <string name="proximity_wake_enable_summary">El sallayınca cihazı uyandır</string>
     <!-- Device actions -->
     <string name="actions_title">Eylemler</string>
+    <string name="device_gestures_panel_summary">Özel cihaz hareketleri</string>
+    <string name="moto_gestures_panel_title">Moto hareketleri</string>
     <!-- Camera gesture -->
     <string name="camera_gesture_title">Çift sallama</string>
     <string name="camera_gesture_summary">Çift sallama hareketi kullanıldığında kamerayı aç</string>
