@@ -92,6 +92,8 @@
     <string name="proximity_wake_enable_summary">ايقاظ الجهاز عند التلويح باليد</string>
     <!-- Device actions -->
     <string name="actions_title">الإجراءات</string>
+    <string name="device_gestures_panel_summary">إيماءات الجهاز الخاصة</string>
+    <string name="moto_gestures_panel_title">إيماءات موتو</string>
     <!-- Camera gesture -->
     <string name="camera_gesture_title">اللف المزدوج</string>
     <string name="camera_gesture_summary">فتح الكاميرا عند استخدام إيماءة اللف المزدوج</string>
