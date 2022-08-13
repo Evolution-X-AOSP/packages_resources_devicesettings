@@ -92,6 +92,8 @@
     <string name="proximity_wake_enable_summary">Прокидати пристрій від помаху рукою над ним</string>
     <!-- Device actions -->
     <string name="actions_title">Дії</string>
+    <string name="device_gestures_panel_summary">Спеціальні жести пристрою</string>
+    <string name="moto_gestures_panel_title">Жести Moto</string>
     <!-- Camera gesture -->
     <string name="camera_gesture_title">Подвійний поворот</string>
     <string name="camera_gesture_summary">Запускати камеру при подвійному повороті пристрою</string>
