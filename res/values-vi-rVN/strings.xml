@@ -154,5 +154,5 @@
     <string name="camera_focus_fix_summary">Bật nếu camera không thể lấy nét</string>
     <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Đánh thức bằng cử chỉ</string>
-    <string name="wake_on_gesture_summary">Đánh thức thiết bị thay vì hiện thông báo</string>
+    <string name="wake_on_gesture_summary">Bật màn hình thay vì chỉ hiện thông báo</string>
 </resources>
