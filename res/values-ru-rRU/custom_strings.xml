@@ -220,7 +220,7 @@
     <!-- High Brightness Mode-->
     <string name="hbm_title">Режим высокой яркости</string>
     <!-- LCD Features -->
-    <string name="lcd_features_title">Дополнительные функции дисплея</string>
+    <string name="lcd_features_title">Дополнительные функции экрана</string>
     <string name="lcd_features_summary">Режим высокой яркости, CABC</string>
     <string name="lcd_features_info">Режим высокой яркости (HBM) увеличивает максимальную яркость дисплея для улучшения видимости при солнечном свете. Увеличивает энергопотребление.\n\nCABC (Адаптивное управление подсветкой контента) регулирует яркость дисплея и подсветки в зависимости от текущего отображаемого контента, чтобы снизить энергопотребление без ухудшения качества.</string>
     <string name="kernel_not_supported">Ядро не поддерживает эту функцию</string>
