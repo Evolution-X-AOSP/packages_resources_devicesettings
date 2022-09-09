@@ -167,7 +167,7 @@
     <string name="panel_modes_settings_title">Chế độ tấm nền</string>
     <string name="panel_modes_settings_summary">Chọn một hiệu chỉnh màn hình được cài đặt sẵn</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Thanh trượt chuông</string>
+    <string name="notification_slider_category_title">Cần gạt chuông</string>
     <string name="notification_slider_selection_dialog_title">Hành động</string>
     <string name="notification_slider_top_position">Trên cùng</string>
     <string name="notification_slider_middle_position">Ở giữa</string>
