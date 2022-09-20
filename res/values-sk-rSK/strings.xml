@@ -91,6 +91,8 @@ doprava pre daľšiu skladbu</string>
     <string name="proximity_wake_enable_summary">Prebudiť zariadenie mávnutím ruky</string>
     <!-- Device actions -->
     <string name="actions_title">Akcie</string>
+    <string name="device_gestures_panel_summary">Špeciálne gestá zariadenia</string>
+    <string name="moto_gestures_panel_title">Moto gestá</string>
     <!-- Camera gesture -->
     <string name="camera_gesture_title">Dvojité otočenie</string>
     <string name="camera_gesture_summary">Spustiť fotoaparát gestom dvojitého otočenia</string>
