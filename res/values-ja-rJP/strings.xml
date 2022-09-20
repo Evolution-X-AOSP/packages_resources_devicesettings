@@ -23,7 +23,7 @@
     <string name="screen_gestures_panel_title">ジェスチャー</string>
     <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">その他</string>
-    <string name="touchscreen_gesture_haptic_feedback">振動フィードバック</string>
+    <string name="touchscreen_gesture_haptic_feedback">触覚フィードバック</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">タッチスクリーンジェスチャーを検出した時に振動させる</string>
     <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">タッチスクリーンジェスチャー</string>

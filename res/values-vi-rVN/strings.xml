@@ -63,7 +63,7 @@
     <string name="ambient_display_enable_summary">Đánh thức màn hình khi nhận thông báo</string>
     <string name="ambient_display_gestures_title">Cử chỉ màn hình xem nhanh</string>
     <string name="ambient_display_gestures_summary">Các cử chỉ bổ sung để đánh thức màn hình</string>
-    <string name="ambient_display_summary">Đánh thức màn hình khi nhận thông báo</string>
+    <string name="ambient_display_summary">Đánh thức màn hình khi bạn nhận thông báo</string>
     <string name="ambient_display_summary_on">Màn hình sẽ đánh thức khi bạn nhận được thông báo</string>
     <string name="ambient_display_summary_off">Màn hình sẽ không bật khi bạn nhận thông báo</string>
     <string name="ambient_display_always_on_title">Luôn bật</string>

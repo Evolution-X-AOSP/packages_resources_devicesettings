@@ -19,7 +19,7 @@
     <string name="display_title">Displej</string>
     <string name="dc_dimming_enable_title">Eliminácia blikania</string>
     <string name="dc_dimming_enable_summary">Režim \"Eliminácia blikania\" pomáha obmedziť blikanie pri zhoršených svetelných podmienkach pomocou funkcie \"DC-Dimming. Môže to znížiť presnosť farieb a ovplyvniť spôsob zobrazenia niektorých položiek.</string>
-    <string name="dc_dimming_enable_summary_not_supported">Eliminácia blikania v súčasnosti nie je podporovaná jadrom</string>
+    <string name="dc_dimming_enable_summary_not_supported">Eliminácia blikania v súčasnosti nie je podporovaná kernelom</string>
     <!-- Dirac settings -->
     <string name="dirac_enable">Použít Mi Sound Enhancer</string>
     <string name="dirac_title">Mi Sound Enhancer</string>
@@ -66,6 +66,18 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Zosilnenie basov</string>
+    <string name="dirac_preset_live">Živý</string>
+    <string name="dirac_preset_balanced">Vyvážený</string>
+    <string name="dirac_preset_bass_reduction">Potlačenie basov</string>
+    <string name="dirac_preset_treble_reduction">Potlačenie vysokých tónov</string>
+    <string name="dirac_preset_soft_bass">Jemné basy</string>
+    <string name="dirac_preset_soft_treble">Jemné vysoké tóny</string>
+    <!-- Dirac Scene Selection -->
+    <string name="music_headset_scenario_select">Vybrať scénu</string>
+    <string name="music_headset_scenario_intelligent">Inteligentný</string>
+    <string name="music_headset_scenario_music">Hudba</string>
+    <string name="music_headset_scenario_video">Video</string>
+    <string name="music_headset_scenario_vocal">Hlas</string>
     <!-- Popup camera settings -->
     <string name="popup_settings_title">Nastavenie vysúvacej kamery</string>
     <string name="popup_led_title">Blesk</string>
@@ -211,8 +223,9 @@
     <string name="lcd_features_title">Ďalšie funkcie displeja</string>
     <string name="lcd_features_summary">Režim vysokého jasu (HBM) &amp;  Adaptívne ovládanie podsvietenia (CABC)</string>
     <string name="lcd_features_info">Režim vysokého jasu (HBM) zvyšuje maximálny jas displeja, aby sa zlepšila viditeľnosť pri slnečnom svetle. Zvyšuje spotrebu energie.\n\nCABC (Content Adaptive Backlight Control) upravuje jas displeja a podsvietenia na základe aktuálne zobrazeného obsahu, aby sa znížila spotreba energie bez zníženia kvality.</string>
-    <string name="kernel_not_supported">Vaše zariadenie túto funkciu nepodporuje</string>
+    <string name="kernel_not_supported">Váš kernel túto funkciu nepodporuje</string>
     <string name="lcd_hbm_title">Režim vysokého jasu</string>
+    <string name="lcd_hbm_summary">Zvýšenie jasu obrazovky pri slnečnom svetle</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Povolené</string>
     <string name="lcd_hbm_title_disabled">Vypnuté</string>
