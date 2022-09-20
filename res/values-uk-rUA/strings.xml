@@ -39,8 +39,8 @@
     <string name="touchscreen_s_gesture_summary">Намалюйте літеру «S», щоб відкрити програму повідомлень</string>
     <string name="touchscreen_v_gesture_title">Телефон</string>
     <string name="touchscreen_v_gesture_summary">Намалюйте літеру «V», щоб відкрити програму Телефон</string>
-    <string name="touchscreen_w_gesture_title">Браузер</string>
-    <string name="touchscreen_w_gesture_summary">Намалюйте літеру «W», щоб відкрити браузер</string>
+    <string name="touchscreen_w_gesture_title">Переглядач</string>
+    <string name="touchscreen_w_gesture_summary">Намалюйте літеру «W», щоб відкрити переглядач</string>
     <string name="touchscreen_z_gesture_title">Ліхтарик</string>
     <string name="touchscreen_z_gesture_summary">Намалюйте літеру «Z», щоб увімкнути або вимкнути ліхтарик</string>
     <string name="touchscreen_flashlight_gesture_title">Ліхтарик</string>
