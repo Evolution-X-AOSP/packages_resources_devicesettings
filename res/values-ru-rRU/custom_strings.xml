@@ -136,7 +136,7 @@
     <string name="action_next_track">Следующий трек</string>
     <string name="action_flashlight">Вкл/выкл фонарик</string>
     <string name="action_camera">Открыть камеру</string>
-    <string name="action_screenshot">Сделать скриншот</string>
+    <string name="action_screenshot">Сделать снимок экрана</string>
     <string name="action_browser">Открыть браузер</string>
     <string name="action_dialer">Открыть «Телефон»</string>
     <string name="action_email">Открыть приложение почты</string>
@@ -240,7 +240,7 @@
     <string name="doze_brightness_summary">%s режим включен</string>
     <string name="doze_brightness_low">Низкий уровень яркости</string>
     <string name="doze_brightness_high">Высокий уровень яркости</string>
-    <string name="doze_brightness_adaptive">Адаптивная регулировка</string>
+    <string name="doze_brightness_adaptive">Адаптивная яркость</string>
     <!-- Refresh Rate per-app -->
     <string name="refresh_title">Частота обновления для приложений</string>
     <string name="refresh_summary">Установите свою частоту обновления для отдельных приложений</string>
@@ -250,6 +250,6 @@
     <string name="refresh_high">Высокая (90Hz)</string>
     <string name="refresh_extreme">Экстремальная (120Hz)</string>
     <!-- Powershare -->
-    <string name="powershare_enable_title">Энергия</string>
+    <string name="powershare_enable_title">Передача заряда батареи</string>
     <string name="powershare_enable_summary">Заряжайте другие устройства, положив их на заднюю часть телефона</string>
 </resources>
