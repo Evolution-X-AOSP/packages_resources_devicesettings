@@ -29,7 +29,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Звук Hi-Fi</string>
     <string name="dirac_hifi_summary">Зниження шуму та спотворень для поліпшення якості звуку. Ця функція підвищує використання батареї</string>
-    <string name="dirac_hifi_enable_title">Активувати Wi-Fi</string>
+    <string name="dirac_hifi_enable_title">Увімкнути Hi-Fi</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Типово</string>
     <string name="dirac_headset_earbuds">Mi навушники</string>
@@ -93,7 +93,7 @@
     <string name="popup_camera_tip">Увага</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Не вдалося закрити передню камеру кілька разів. Спробуйте відкалібрувати камеру.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Не вдалося відкрити передню камеру кілька разів. Спробуйте відкалібрувати камеру.</string>
-    <string name="popup_camera_calibrate_running">На можна використовувати передню камеру під час калібрування.</string>
+    <string name="popup_camera_calibrate_running">Передню камеру не можна використовувати під час калібрування.</string>
     <string name="popup_camera_calibrate_now">Калібрування</string>
     <string name="popup_camera_calibrate_failed">Помилка калібрування</string>
     <string name="popup_camera_calibrate_success">Відкалібровано успішно. Тепер ви можете відкрити передню камеру.</string>
@@ -250,6 +250,6 @@
     <string name="refresh_high">Висока (90Гц)</string>
     <string name="refresh_extreme">Екстремальна (120Гц)</string>
     <!-- Powershare -->
-    <string name="powershare_enable_title">PowerShare</string>
+    <string name="powershare_enable_title">Спільне використання батареї</string>
     <string name="powershare_enable_summary">Використовуйте бездротовий доступ заряджання для інших пристроїв.</string>
 </resources>

@@ -33,8 +33,8 @@
     <string name="touchscreen_c_gesture_summary">Нарисуйте «С» для запуска камеры</string>
     <string name="touchscreen_e_gesture_title">Email</string>
     <string name="touchscreen_e_gesture_summary">Нарисуйте букву «е», чтобы открыть приложение электронной почты</string>
-    <string name="touchscreen_m_gesture_title">Мессенджер</string>
-    <string name="touchscreen_m_gesture_summary">Нарисуйте букву «M», чтобы открыть мессенджер</string>
+    <string name="touchscreen_m_gesture_title">Сообщения</string>
+    <string name="touchscreen_m_gesture_summary">Нарисуйте букву «M», чтобы открыть сообщения</string>
     <string name="touchscreen_s_gesture_title">Сообщения</string>
     <string name="touchscreen_s_gesture_summary">Нарисуйте букву «S», чтобы открыть приложение для обмена сообщениями</string>
     <string name="touchscreen_v_gesture_title">Телефон</string>
