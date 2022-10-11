@@ -116,7 +116,7 @@
     <string name="action_launch_camera">カメラを起動</string>
     <string name="action_torch">トーチの切り替え</string>
     <!-- Feedback intensity -->
-    <string name="feedback_intensity_title">振動フィードバックの強度</string>
+    <string name="feedback_intensity_title">触覚フィードバックの強度</string>
     <string name="feedback_intensity_summary">2回ひねりと2回振り下ろしの動作の反応バイブの強さを決定する</string>
     <string name="feedback_intensity_none">無効</string>
     <string name="feedback_intensity_low">弱</string>
