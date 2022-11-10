@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Affichage</string>
+    <string name="dc_dimming_enable_title">Anti-scintillement</string>
+    <string name="dc_dimming_enable_summary">Le mode anti-scintillement aide à réduire la fatigue oculaire dans des conditions de faible luminosité en utilisant la fonction de « gradation DC ». Cela peut dégrader la précision des couleurs et affecter la façon dont certains éléments sont affichés.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Le mode anti-scintillement n\'est actuellement pas supporté par le noyau</string>
+    <!-- Dirac settings -->
+    <string name="dirac_enable">Utiliser l\'Amélioration du Son Mi</string>
+    <string name="dirac_title">Amélioration du Son Mi</string>
+    <string name="dirac_summary">Optimiser la qualité audio</string>
+    <string name="dirac_headset_title">Sélectionnez le type d\'écouteurs</string>
+    <string name="dirac_preset_title">Choisir une présélection</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">Réduire le bruit et la distorsion et augmenter la qualité audio</string>
+    <string name="dirac_hifi_enable_title">Activer le Hi-fi</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Par défaut</string>
+    <string name="dirac_headset_earbuds">Écouteurs Mi</string>
+    <string name="dirac_headset_in_ear_2013">Mi Intra (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Général</string>
+    <string name="dirac_headset_general_inear">Intra standard</string>
+    <string name="dirac_headset_piston_basic">Édition basique</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Édition standard</string>
+    <string name="dirac_headset_headphone">Casque Mi</string>
+    <string name="dirac_headset_piston_youth">Édition Jeunesse</string>
+    <string name="dirac_headset_piston_color">Édition Couleur</string>
+    <string name="dirac_headset_in_ear">Écouteurs Mi</string>
+    <string name="dirac_headset_capsule">Capsule Mi</string>
+    <string name="dirac_headset_in_ear_pro">Écouteurs Mi Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Élimination de bruit Type-C Mi</string>
+    <string name="dirac_headset_cancelling">Élimination de bruit 3.5mm Mi</string>
+    <string name="dirac_headset_half_in_ear">Mi Half in-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Écouteurs Mi basique</string>
+    <string name="dirac_headset_earphone">Écouteurs Mi</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Défaut</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Musique classique</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Électronique</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Danse</string>
+    <string name="dirac_preset_metal">Métal</string>
+    <string name="dirac_preset_bass_booster">Amplificateur de basses</string>
+    <string name="dirac_preset_live">En direct</string>
+    <string name="dirac_preset_balanced">Equilibré</string>
+    <string name="dirac_preset_bass_reduction">Réduction des basses</string>
+    <string name="dirac_preset_treble_reduction">Réduction des aigus</string>
+    <string name="dirac_preset_soft_bass">Basses douces</string>
+    <string name="dirac_preset_soft_treble">Aigus doux</string>
+    <!-- Dirac Scene Selection -->
+    <string name="music_headset_scenario_select">Sélectionnez un scénario</string>
+    <string name="music_headset_scenario_intelligent">Intelligent</string>
+    <string name="music_headset_scenario_music">Musique</string>
+    <string name="music_headset_scenario_video">Vidéo</string>
+    <string name="music_headset_scenario_vocal">Voix</string>
+    <!-- Popup camera settings -->
+    <string name="popup_settings_title">Paramètres de la caméra pop-up</string>
+    <string name="popup_led_title">LED de la caméra</string>
+    <string name="popup_led_summary">Allumer la LED lorsque la caméra frontale apparaît et se rétracte</string>
+    <string name="popup_sound_title">Effets sonores</string>
+    <string name="popup_title_muqin">Xylophone</string>
+    <string name="popup_title_yingyan">Condor</string>
+    <string name="popup_title_mofa">Magie</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Roue dentée</string>
+    <string name="popup_title_cangmen">Porte de cabine</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Attention</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Impossible de fermer la caméra frontale plusieurs fois. Essayez de calibrer la caméra.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Impossible d\'ouvrir la caméra frontale plusieurs fois. Essayez de calibrer la caméra.</string>
+    <string name="popup_camera_calibrate_running">La caméra frontale ne peut pas être utilisée pendant la calibration.</string>
+    <string name="popup_camera_calibrate_now">Calibrer</string>
+    <string name="popup_camera_calibrate_failed">Calibrage impossible</string>
+    <string name="popup_camera_calibrate_success">Calibré avec succès. Vous pouvez ouvrir la caméra frontale maintenant.</string>
+    <string name="stop_operate_camera_frequently">Vous ouvrez trop souvent la caméra frontale.</string>
+    <string name="takeback_camera_front_failed">Impossible de fermer la caméra frontale. Réessayez.</string>
+    <string name="popup_camera_front_failed">Impossible d\'ouvrir la caméra frontale. Réessayez.</string>
+    <string name="popup_camera_proximity_obstructed">Retirez votre main du capteur de proximité pour ouvrir la caméra avant...</string>
+    <!-- Clear Speaker -->
+    <string name="clear_speaker_title">Nettoyer le haut-parleur</string>
+    <string name="clear_speaker_summary">Lire un enregistrement audio de 30 secondes pour nettoyer le haut-parleur</string>
+    <string name="clear_speaker_description">Éxécutez cette fonction une ou deux fois si votre haut-parleur est légèrement bouché par de la poussière. Réglez le volume au maximum.\n\nSi le haut-parleur est plus encombré, répétez de 2 à 5 fois la procédure tout en secouant le téléphone avec le haut-parleur vers le bas.</string>
+    <!-- Moto Actions - Title and summary -->
+    <string name="moto_actions_title">Actions Moto</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Gestes de l\'appareil</string>
+    <string name="device_gestures_summary">Gérer les gestes de l\'appareil</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Gérer les gestes de l\'affichage ambiant</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Gestes d\'empreinte digitale</string>
+    <string name="fingerprint_gestures_summary">Gérer les gestes d’empreintes digitales</string>
+    <string name="fingerprint_gestures_manage_summary">Gérer les gestes d’empreintes digitales</string>
+    <string name="fingerprint_actions_screenon">Actions avec écran allumé</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Gestes d\'empreintes digitales lorsque l\'écran est éteint</string>
+    <string name="fingerprint_gestures_screenoff_summary">Utiliser les gestes d\'empreinte digitale lorsque l\'écran est éteint.\n\nLe déverrouillage par empreinte digitale doit être désactivé pour utiliser cette fonctionnalité.</string>
+    <string name="fingerprint_actions_screenoff">Actions avec écran éteint</string>
+    <!-- Actions -->
+    <string name="action_home">Accueil</string>
+    <string name="action_power">Allumer/éteindre l\'écran</string>
+    <string name="action_wake">Réveil</string>
+    <string name="action_back">Retour</string>
+    <string name="action_recents">Récents</string>
+    <string name="action_last_app">Dernière application</string>
+    <string name="action_volume_up">Volume +</string>
+    <string name="action_volume_down">Volume -</string>
+    <string name="action_voice_assistant">Assistant vocal</string>
+    <string name="action_play_pause">Lecture/Pause</string>
+    <string name="action_previous_track">Piste précédente</string>
+    <string name="action_next_track">Piste suivante</string>
+    <string name="action_flashlight">Lampe de poche allumée/éteinte</string>
+    <string name="action_camera">Ouvrir l\'appareil photo</string>
+    <string name="action_screenshot">Prendre une capture d\'écran</string>
+    <string name="action_browser">Ouvrir le navigateur</string>
+    <string name="action_dialer">Ouvrir le Téléphone</string>
+    <string name="action_email">Ouvrir l’application de courriel</string>
+    <string name="action_messages">Ouvrir l\'application de messages</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Gérer les gestes lorsque l’écran est éteint</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Sélectionner une action lors d\'un glissement vers la gauche</string>
+    <string name="swipe_right_dlg_title">Sélectionner une action lors d\'un glissement vers la droite</string>
+    <string name="swipe_up_dlg_title">Sélectionner une action lors d\'un glissement vers le haut</string>
+    <string name="swipe_down_dlg_title">Sélectionner une action lors d\'un glissement vers le bas</string>
+    <string name="tap_title">Appui simple</string>
+    <string name="double_tap_title">Double appui</string>
+    <string name="long_tap_title">Appui long</string>
+    <string name="tap_dlg_title">Sélectionner une action pour un appui simple</string>
+    <string name="double_tap_dlg_title">Sélectionner une action pour un double appui</string>
+    <string name="long_tap_dlg_title">Sélectionner une action pour un appui long</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Appuyer pour réveiller</string>
+    <string name="tap_to_wake_summary">Toucher deux fois n\'importe où sur l\'écran de verrouillage pour mettre l\'appareil en veille</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Autoriser le capteur de proximité</string>
+    <string name="allow_proximity_sensor_summary">Vérifier le capteur de proximité avant d\'effectuer l\'action</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">Paramètres OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Paramètres personnalisés pour votre appareil</string>
+    <!-- OnePlus - PanelModes -->
+    <string name="panel_modes_settings_title">Modes de l\'écran</string>
+    <string name="panel_modes_settings_summary">Choisissez une calibration pré-faite de l\'affichage</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">Curseur d\'alertes</string>
+    <string name="notification_slider_selection_dialog_title">Action</string>
+    <string name="notification_slider_top_position">Position haute</string>
+    <string name="notification_slider_middle_position">Position intermédiaire</string>
+    <string name="notification_slider_bottom_position">Position basse</string>
+    <string name="notification_slider_mode_total_silence">Silence total</string>
+    <string name="notification_slider_mode_alarms_only">Alarmes uniquement</string>
+    <string name="notification_slider_mode_priority_only">Priorités uniquement</string>
+    <string name="notification_slider_mode_silent">Silencieux</string>
+    <string name="notification_slider_mode_vibrate">Vibreur</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Profils d\'optimisation</string>
+    <string name="thermal_summary">Ajuster les profils par application pour des performances optimales</string>
+    <string name="thermal_default">Aucune optimisation</string>
+    <string name="thermal_benchmark">Performance</string>
+    <string name="thermal_browser">Navigateur web</string>
+    <string name="thermal_camera">Appareil photo</string>
+    <string name="thermal_dialer">Téléphone</string>
+    <string name="thermal_gaming">Jeux</string>
+    <string name="thermal_streaming">Applications de streaming</string>
+    <!-- Raise to wake strings-->
+    <string name="raise_to_wake_gesture_title">Soulever pour allumer l\'écran</string>
+    <string name="raise_to_wake_gesture_summary">Réveiller l\'appareil au lieu de faire clignoter les notifications</string>
+    <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Taux de rafraîchissement minimum</string>
+    <string name="device_power_save_refresh_rate">Économiser l\'énergie automatiquement</string>
+    <string name="device_power_save_refresh_rate_switch">Diminuer automatiquement le taux de rafraîchissement de l\'écran quand le mode d\'économie d\'énergie est actif</string>
+    <string name="refresh_rate_settings_title">Taux de rafraîchissement de l\'écran</string>
+    <string name="refresh_rate_settings_summary">Ajuster le taux de rafraîchissement de l\'écran</string>
+    <string name="refresh_rate_tile_title">Taux de raffraichissement</string>
+    <string name="refresh_rate_tile_disabled">Économiseur de batterie activé</string>
+    <!-- Touch Control Settings -->
+    <string name="touch_control_title">Optimisations de l\'écran tactile</string>
+    <string name="touch_game_mode_title">Activer le mode jeu</string>
+    <string name="touch_game_mode_summary">Aide à améliorer l\'expérience de jeu en optimisant l\'écran tactile</string>
+    <string name="touch_response_title">Réponse tactile</string>
+    <string name="touch_response_summary">Contrôler le taux de réponse tactile</string>
+    <string name="touch_sensitivity_title">Sensibilité du toucher</string>
+    <string name="touch_sensitivity_summary">Contrôler la sensibilité des touchers répétés</string>
+    <string name="touch_resistant_title">Zone non-tactile</string>
+    <string name="touch_resistant_summary">Réduit la sensibilité près des bords pour éviter des manipulations involontaires</string>
+    <!-- Button settings -->
+    <string name="button_settings_title">Boutons</string>
+    <string name="button_swap_summary">Inverser les boutons de navigation</string>
+    <string name="home_button_extra_settings">Personnaliser le comportement du bouton d\'accueil</string>
+    <!-- Assistant button -->
+    <string name="assistant_button_action">Action de la touche d\'Assistant</string>
+    <!-- Stylus pen -->
+    <string name="stylus_title">Stylet</string>
+    <!-- High Brightness Mode-->
+    <string name="hbm_title">Mode haute luminosité</string>
+    <!-- LCD Features -->
+    <string name="lcd_features_title">Fonctionnalités d\'Affichage Additionnelles</string>
+    <string name="lcd_features_summary">Mode haute luminosité (HBM) &amp; Contrôle du rétro-éclairage adaptatif du contenu (CABC)</string>
+    <string name="lcd_features_info">Le mode haute luminosité (HBM) augmente la luminosité maximale de l\'écran pour améliorer la visibilité sous la lumière du soleil. Augmente la consommation d\'énergie.\n\nLe contrôle du rétro-éclairage adaptatif de contenu (CABC) ajuste la luminosité de l\'affichage et du rétroéclairage en fonction du contenu affiché, pour réduire la consommation d\'énergie sans dégradation.</string>
+    <string name="kernel_not_supported">Le noyau ne supporte pas cette fonctionnalité</string>
+    <string name="lcd_hbm_title">Mode Haute Luminosité</string>
+    <string name="lcd_hbm_summary">Augmenter la luminosité de l\'écran sous la lumière du soleil</string>
+    <string name="lcd_hbm_tile_title">MHL</string>
+    <string name="lcd_hbm_title_enabled">Activé</string>
+    <string name="lcd_hbm_title_disabled">Désactivé</string>
+    <string name="lcd_cabc_title">Contrôle du rétroéclairage adaptatif du contenu</string>
+    <string name="lcd_cabc_tile_title">CABC</string>
+    <string name="lcd_cabc_off">Désactivé</string>
+    <string name="lcd_cabc_low">Bas (IU)</string>
+    <string name="lcd_cabc_medium">Moyen (Vidéos)</string>
+    <string name="lcd_cabc_high">Haut (Images)</string>
+    <!-- Always on brightness -->
+    <string name="doze_brightness_title">Luminosité toujours en cours</string>
+    <string name="doze_brightness_summary">Le mode %s est activé</string>
+    <string name="doze_brightness_low">Faible luminosité</string>
+    <string name="doze_brightness_high">Haute luminosité</string>
+    <string name="doze_brightness_adaptive">Luminosité adaptative</string>
+    <!-- Refresh Rate per-app -->
+    <string name="refresh_title">Taux de rafraîchissement par application</string>
+    <string name="refresh_summary">Définir un taux de rafraîchissement spécifique pour chaque application</string>
+    <string name="refresh_default">Par défaut</string>
+    <string name="refresh_low">Basse (30Hz)</string>
+    <string name="refresh_medium">Standard (60Hz)</string>
+    <string name="refresh_high">Élevée (90Hz)</string>
+    <string name="refresh_extreme">Extrême (120Hz)</string>
+    <!-- Powershare -->
+    <string name="powershare_enable_title">Partage de la batterie</string>
+    <string name="powershare_enable_summary">Charger d\'autres appareils en les plaçant à l\'arrière de votre téléphone</string>
+</resources>
