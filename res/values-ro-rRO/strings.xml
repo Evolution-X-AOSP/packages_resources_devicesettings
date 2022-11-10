@@ -92,6 +92,8 @@
     <string name="proximity_wake_enable_summary">Trezire dispozitiv la unduirea mâinii</string>
     <!-- Device actions -->
     <string name="actions_title">Acțiuni</string>
+    <string name="device_gestures_panel_summary">Gesturi speciale ale dispozitivului</string>
+    <string name="moto_gestures_panel_title">Gesturi Moto</string>
     <!-- Camera gesture -->
     <string name="camera_gesture_title">Dublă-răsucire</string>
     <string name="camera_gesture_summary">Deschide camera când se folosește gestul de răsucire dublă</string>
