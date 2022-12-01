@@ -187,7 +187,7 @@
     <string name="thermal_camera">Камера</string>
     <string name="thermal_dialer">Телефон</string>
     <string name="thermal_gaming">Игра</string>
-    <string name="thermal_streaming">Потоковое приложение</string>
+    <string name="thermal_streaming">Стриминг</string>
     <!-- Raise to wake strings-->
     <string name="raise_to_wake_gesture_title">Поднять для пробуждения</string>
     <string name="raise_to_wake_gesture_summary">Разбудить устройство вместо отображения уведомлений</string>
