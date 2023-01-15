@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017-2022 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Device specific settings -->
+    <string name="device_settings_app_name">Configuració avançada</string>
+    <!-- Device gestures panel -->
+    <string name="screen_gestures_panel_title">Gestos</string>
+    <!-- Touchscreen gesture haptic feedback -->
+    <string name="touchscreen_gesture_extras">Extres</string>
+    <string name="touchscreen_gesture_haptic_feedback">Resposta hàptica</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Vibra en detectar un gest a la pantalla tàctil</string>
+    <!-- Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">Gestos a la pantalla tàctil</string>
+    <string name="touchscreen_gesture_settings_summary">Fes diversos gestos a la pantalla tàctil per fer accions ràpides</string>
+    <string name="gesture_display_title">Gestos amb pantalla apagada</string>
+    <string name="touchscreen_c_gesture_title">Cambra</string>
+    <string name="touchscreen_c_gesture_summary">Dibuixa una «C» per activar la càmera</string>
+    <string name="touchscreen_e_gesture_title">Correu electrònic</string>
+    <string name="touchscreen_e_gesture_summary">Dibuixa una «e» per obrir l\'aplicació de correu electrònic</string>
+    <string name="touchscreen_m_gesture_title">Missatges</string>
+    <string name="touchscreen_m_gesture_summary">Dibuixa una «M» per obrir l\'aplicació de missatgeria</string>
+    <string name="touchscreen_s_gesture_title">Missatges</string>
+    <string name="touchscreen_s_gesture_summary">Dibuixa una «S» per obrir l\'aplicació de missatgeria</string>
+    <string name="touchscreen_v_gesture_title">Marcador de telèfon</string>
+    <string name="touchscreen_v_gesture_summary">Dibuixa una\"V\" per obrir l\'aplicació de marcador</string>
+    <string name="touchscreen_w_gesture_title">Navegador</string>
+    <string name="touchscreen_w_gesture_summary">Dibuixa una\"W\" per obrir l\'aplicació de navegador</string>
+    <string name="touchscreen_z_gesture_title">Llanterna</string>
+    <string name="touchscreen_z_gesture_summary">Dibuixa una \"Z\" per encendre la llanterna</string>
+    <string name="touchscreen_flashlight_gesture_title">Llanterna</string>
+    <string name="touchscreen_flashlight_gesture_summary">Dibuixa un cercle per encendre la llanterna</string>
+    <string name="touchscreen_music_gesture_title">Música</string>
+    <string name="touchscreen_music_gesture_summary">Utilitzar gestos per controlar la reproducció de música \n
+    • Llisca cap avall per iniciar/pausar\n
+    • Llisca a l\'esquerra per a la pista anterior\n
+    • Llisca a la dreta per a la pista següent</string>
+    <string name="touchscreen_swipe_up_title">Llisca cap amunt</string>
+    <string name="touchscreen_swipe_right_title">Lliscar cap a la dreta</string>
+    <string name="touchscreen_swipe_down_title">Lliscar cap avall</string>
+    <string name="touchscreen_swipe_left_title">Lliscar cap a l\'esquerra</string>
+    <!-- User-aware display -->
+    <string name="user_aware_display_title">Atenció de pantalla</string>
+    <string name="user_aware_display_summary">Mantenir la pantalla encesa mentre l\' usuari estigui davant seu</string>
+    <!-- Ambient Display -->
+    <string name="ambient_display_title">Pantalla ambient</string>
+    <string name="ambient_display_enable_title">Usar pantalla ambient</string>
+    <string name="ambient_display_enable_summary">Activar pantalla en rebre notificacions</string>
+    <string name="ambient_display_gestures_title">Gestos en pantalla ambient</string>
+    <string name="ambient_display_gestures_summary">Gestos addicionals per activar la pantalla</string>
+    <string name="ambient_display_summary">Activar pantalla en rebre notificacions</string>
+    <string name="ambient_display_summary_on">La pantalla s\' activarà quan rebi les notificacions</string>
+    <string name="ambient_display_summary_off">La pantalla no s\'activarà quan rebi notificacions</string>
+    <string name="ambient_display_always_on_title">Sempre encesa</string>
+    <string name="ambient_display_always_on_summary">Mostrar hora, icones de notificacions i una altra info. Incrementa l\' ús de bateria.</string>
+    <!-- Tilt sensor -->
+    <string name="tilt_sensor_title">Sensor de toc</string>
+    <!-- Pickup sensor -->
+    <string name="pickup_sensor_title">Sensor d\' elevació</string>
+    <!-- Proximity sensor -->
+    <string name="proximity_sensor_title">Sensor de proximitat</string>
+    <!-- Hand wave gesture -->
+    <string name="hand_wave_gesture_title">Moviment de la mà</string>
+    <string name="hand_wave_gesture_summary">Mostrar notificacions en passar la mà</string>
+    <string name="hand_wave_gesture_flat_title">Detectar orientació</string>
+    <string name="hand_wave_gesture_flat_summary">Mostrar notificacions només si el telèfon està sobre una superfície plana</string>
+    <!-- Pick-up gesture -->
+    <string name="pick_up_gesture_title">Aixecar</string>
+    <string name="pick_up_gesture_summary">Mostrar notificacions en aixecar</string>
+    <string name="pick_up_wake_gesture_summary">Despertar dispositiu en aixecar</string>
+    <!-- Pocket gesture -->
+    <string name="pocket_gesture_title">Butxaca</string>
+    <string name="pocket_gesture_summary">Mostrar notificacions en treure de la butxaca</string>
+    <!-- Proximity wake -->
+    <string name="proximity_wake_title">Despertar per proximitat</string>
+    <string name="proximity_wake_enable_title">Despertar per proximitat</string>
+    <string name="proximity_wake_enable_summary">Despertar el dispositiu en passar la mà</string>
+    <!-- Device actions -->
+    <string name="actions_title">Accions</string>
+    <string name="device_gestures_panel_summary">Gestos especials del dispositiu</string>
+    <string name="moto_gestures_panel_title">Gestos Motorola</string>
+    <!-- Camera gesture -->
+    <string name="camera_gesture_title">Doble gir</string>
+    <string name="camera_gesture_summary">Obrir càmera quan s\'utilitzi el gest de doble gir</string>
+    <!-- Chop-chop gesture -->
+    <string name="chop_chop_gesture_title">Xop-chop</string>
+    <string name="chop_chop_gesture_summary">Encendre llanterna quan es fa servir el gest de doble sacsejada</string>
+    <!-- Hand wave silencer gesture -->
+    <string name="hand_wave_silencer_title">Passar la mà per silenciar</string>
+    <string name="hand_wave_silencer_summary">Silenciar cridada en passar la mà per la pantalla</string>
+    <!-- Flip to mute gesture -->
+    <string name="flip_to_mute_title">Voltejar per a mode No Molestar</string>
+    <string name="flip_to_mute_summary">Col·locar telèfon boca avall per silenciar notificacions i trucades</string>
+    <!-- Do Not Disturb access -->
+    <string name="dnd_access">Per favor, donar accés de no molestar CMActions per poder utilitzar aquesta funció.</string>
+    <!-- Lift to silence gesture -->
+    <string name="lift_to_silence_title">Recollir per deixar de sonar</string>
+    <string name="lift_to_silence_summary">Aixeca el telèfon per silenciar les trucades entrants. Només funciona quan el telèfon comença de forma plana</string>
+    <!-- Action toggles -->
+    <string name="action_none">Deshabilitar</string>
+    <string name="action_launch_camera">Obrir càmera</string>
+    <string name="action_torch">Alternar llanterna</string>
+    <!-- Feedback intensity -->
+    <string name="feedback_intensity_title">Intensitat de la resposta hàptica</string>
+    <string name="feedback_intensity_summary">Intensitat de la resposta hàptica per a les accions de doble gir i doble sacsejada</string>
+    <string name="feedback_intensity_none">Desactivat</string>
+    <string name="feedback_intensity_low">Baixa</string>
+    <string name="feedback_intensity_medium">Mitjana</string>
+    <string name="feedback_intensity_high">Alta</string>
+    <!-- Dialog texts -->
+    <string name="dialog_ok">Ok</string>
+    <!-- Generic texts -->
+    <string name="disabled">Desactivat</string>
+    <!-- Help texts -->
+    <string name="doze_settings_help_title">Ajut</string>
+    <string name="doze_settings_help_text">Aquestes característiques fan servir esdeveniments de sensors per llançar una notificació de pantalla ambient. El sensor seleccionat només s\'activa quan el dispositiu rep una notificació, cosa que ajuda a reduir l\'ús de la bateria. També hi ha una opció per habilitar el sensor seleccionat quan la pantalla s\'apagui però això causarà un major consum de bateria.</string>
+    <!-- Button settings -->
+    <string name="button_panel_title">Grum addicionals</string>
+    <string name="button_swap_title">Intercanviar botons</string>
+    <string name="button_swap_summary">Canviar l\'ordre dels botons Recents i Enrere</string>
+    <!-- Fingerprint -->
+    <string name="fingerprint_title">Empremta digital</string>
+    <string name="fingerprint_as_home_title">Empremta dactilar com a inici</string>
+    <string name="fingerprint_as_home_summary">Usar el sensor d\' empremtes dactilars com a botó d\' inici</string>
+    <string name="fingerprint_wakeup_title">Despertar amb empremta dactilar</string>
+    <string name="fingerprint_wakeup_summary">Permetre al sensor d\'empremtes dactilars activar el dispositiu quan la pantalla està apagada</string>
+    <string name="fingerprint_pocketmode_title">Prevenir encesa accidental</string>
+    <string name="fingerprint_pocketmode_summary">Comprova el sensor de proximitat abans d\' encendre mitjançant empremta dactilar</string>
+    <string name="fingerprint_sleep_title">Apagar amb empremta dactilar</string>
+    <string name="fingerprint_sleep_summary">Polsar el sensor d\'empremta dactilar per apagar la pantalla</string>
+    <!-- High touch sensitivity -->
+    <string name="high_touch_sensitivity_title">Alta sensibilitat tàctil</string>
+    <string name="high_touch_sensitivity_summary">Augmentar la sensibilitat del panell tàctil perquè es pugui fer servir amb guants</string>
+    <!-- Quick charge toggle -->
+    <string name="quick_charge_title">Càrrega ràpida</string>
+    <string name="quick_charge_summary">Alterna càrrega ràpida. Desendolla i endolceix el carregador després de canviar aquest ajust</string>
+    <!-- Camera focus fix toggle -->
+    <string name="camera_focus_fix_title">Arranjament d\' enfocament de cambra</string>
+    <string name="camera_focus_fix_summary">Actívalo si tens problemes amb la càmera en enfocar</string>
+    <!-- Wake on gesture -->
+    <string name="wake_on_gesture_title">Despertar amb gestos</string>
+    <string name="wake_on_gesture_summary">Desperta el dispositiu en lloc de mostrar notificacions en realitzar gestos</string>
+</resources>
