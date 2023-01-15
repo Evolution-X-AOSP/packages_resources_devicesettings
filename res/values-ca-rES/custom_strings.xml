@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Pantalla</string>
+    <string name="dc_dimming_enable_title">Antiparpadeig</string>
+    <string name="dc_dimming_enable_summary">El mode anti parpadeig ajuda a reduir la fatiga ocular en condicions de baixa llum utilitzant la funció \"atenuació DC\". Això podria disminuir la precisió del color i afectar la forma en què es visualitzen alguns ítems.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Actualment l\'anti-parpadeig no és compatible amb el kernel</string>
+    <!-- Dirac settings -->
+    <string name="dirac_enable">Usar Mi Sound Enhancer</string>
+    <string name="dirac_title">El meu Sound Enhancer</string>
+    <string name="dirac_summary">Optimitzar la qualitat de l\' àudio</string>
+    <string name="dirac_headset_title">Selecciona el tipus d\' auriculars</string>
+    <string name="dirac_preset_title">Selecciona un preajust</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">Redueix el soroll i la distorsió i incrementa la qualitat de l\' àudio</string>
+    <string name="dirac_hifi_enable_title">Activar Hi-fi</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Predeterminat</string>
+    <string name="dirac_headset_earbuds">El meu Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">El meu Piston-1</string>
+    <string name="dirac_headset_general">General</string>
+    <string name="dirac_headset_general_inear">In-Ear genèric</string>
+    <string name="dirac_headset_piston_basic">Edició Bàsica</string>
+    <string name="dirac_headset_piston_2">El meu Piston-2</string>
+    <string name="dirac_headset_piston_standard">Edició estàndard</string>
+    <string name="dirac_headset_headphone">El meu Headphones</string>
+    <string name="dirac_headset_piston_youth">Youth Edition</string>
+    <string name="dirac_headset_piston_color">Color Edition</string>
+    <string name="dirac_headset_in_ear">El meu In-Ear</string>
+    <string name="dirac_headset_capsule">El meu Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">El meu Comfort</string>
+    <string name="dirac_headset_reduction_noise">Cancel·lació de soroll El meu tipus-C</string>
+    <string name="dirac_headset_cancelling">Cancel·lació de Soroll Mi 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">El meu Earphones Basic</string>
+    <string name="dirac_headset_earphone">El meu Earphones</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Predeterminat</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Música clàssica</string>
+    <string name="dirac_preset_hiphop">Hip-Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Electrònica</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Metall</string>
+    <string name="dirac_preset_bass_booster">Reforç de greus</string>
+    <string name="dirac_preset_live">En directe</string>
+    <string name="dirac_preset_balanced">Equilibrat</string>
+    <string name="dirac_preset_bass_reduction">Reducció de greus</string>
+    <string name="dirac_preset_treble_reduction">Reductor d\' aguts</string>
+    <string name="dirac_preset_soft_bass">Greus suaus</string>
+    <string name="dirac_preset_soft_treble">Aguts suaus</string>
+    <!-- Dirac Scene Selection -->
+    <string name="music_headset_scenario_select">Seleccionar escenari</string>
+    <string name="music_headset_scenario_intelligent">Intel·ligent</string>
+    <string name="music_headset_scenario_music">Música</string>
+    <string name="music_headset_scenario_video">Vídeo</string>
+    <string name="music_headset_scenario_vocal">Veu</string>
+    <!-- Popup camera settings -->
+    <string name="popup_settings_title">Ajustaments de cambra emergent</string>
+    <string name="popup_led_title">LED de cambra</string>
+    <string name="popup_led_summary">Mostrar llum LED quan la càmera frontal aparegui i es retracti</string>
+    <string name="popup_sound_title">Efectes de so</string>
+    <string name="popup_title_muqin">Xilòfon</string>
+    <string name="popup_title_yingyan">Còndor</string>
+    <string name="popup_title_mofa">Màgia</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Engranatge</string>
+    <string name="popup_title_cangmen">Porta de cabina</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Atenció</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">No s’ha pogut tancar la càmera frontal diverses vegades. Intenteu calibrar la càmera.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">No s’ha pogut obrir la càmera frontal diverses vegades. Intenta calibrar la càmera.</string>
+    <string name="popup_camera_calibrate_running">La càmera frontal no es pot utilitzar durant la calibració.</string>
+    <string name="popup_camera_calibrate_now">Calibra</string>
+    <string name="popup_camera_calibrate_failed">No s\'ha pogut calibrar</string>
+    <string name="popup_camera_calibrate_success">S\'ha calibrat correctament. Ja pots obrir la càmera frontal.</string>
+    <string name="stop_operate_camera_frequently">Estàs obrint la càmera frontal amb massa freqüència.</string>
+    <string name="takeback_camera_front_failed">No es va poder tancar la càmera frontal. Torna a intentar-ho.</string>
+    <string name="popup_camera_front_failed">No es va poder obrir la càmera frontal. Torna a intentar-ho.</string>
+    <string name="popup_camera_proximity_obstructed">Retira la mà del sensor de proximitat per obrir la càmera frontal...</string>
+    <!-- Clear Speaker -->
+    <string name="clear_speaker_title">Neteja l\'altaveu</string>
+    <string name="clear_speaker_summary">Reprodueix un àudio de 30 segons per netejar l\'altaveu</string>
+    <string name="clear_speaker_description">Executa aquesta funció una o dues vegades si veus que la pols està obstruint l\'altaveu. Puja el volum al màxim.\n\nSi l\'altaveu està una mica bloquejat, executa aquesta funció de 2 a 5 vegades mentre agites el dispositiu amb l\'altaveu cap avall.</string>
+    <!-- Moto Actions - Title and summary -->
+    <string name="moto_actions_title">Accions Moto</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Gestos del dispositiu</string>
+    <string name="device_gestures_summary">Gestiona els gestos del dispositiu</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Gestiona els gestos de la pantalla ambient</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Gestos d\'empremta dactilar</string>
+    <string name="fingerprint_gestures_summary">Usar gestos d\' empremta dactilar</string>
+    <string name="fingerprint_gestures_manage_summary">Gestionar gestos d\' empremta dactilar</string>
+    <string name="fingerprint_actions_screenon">Accions amb pantalla encesa</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Gestos d\'empremta dactilar amb pantalla apagada</string>
+    <string name="fingerprint_gestures_screenoff_summary">Fa servir gestos d\'empremta dactilar quan la pantalla està apagada.\n\nEl desbloqueig d\'empremta dactilar ha d\'estar desactivat per usar aquesta funció.</string>
+    <string name="fingerprint_actions_screenoff">Accions amb la pantalla apagada</string>
+    <!-- Actions -->
+    <string name="action_home">Inici</string>
+    <string name="action_power">Encendre/Apagar pantalla</string>
+    <string name="action_wake">Despertar</string>
+    <string name="action_back">Tornar</string>
+    <string name="action_recents">Recents</string>
+    <string name="action_last_app">Última aplicació</string>
+    <string name="action_volume_up">Pujar volum</string>
+    <string name="action_volume_down">Baixar volum</string>
+    <string name="action_voice_assistant">Assistent de veu</string>
+    <string name="action_play_pause">Reproduir/pausar</string>
+    <string name="action_previous_track">Cançó anterior</string>
+    <string name="action_next_track">Següent cançó</string>
+    <string name="action_flashlight">Encendre/Apagar llanterna</string>
+    <string name="action_camera">Obrir càmera</string>
+    <string name="action_screenshot">Prendre captura de pantalla</string>
+    <string name="action_browser">Obrir navegador</string>
+    <string name="action_dialer">Obrir telèfon</string>
+    <string name="action_email">Obrir aplicació de correu electrònic</string>
+    <string name="action_messages">Obrir l\'app de missatges</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Gestionar gestos quan la pantalla està apagada</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Seleccionar acció per lliscar cap a l\' esquerra</string>
+    <string name="swipe_right_dlg_title">Seleccionar acció per lliscar cap a la dreta</string>
+    <string name="swipe_up_dlg_title">Seleccionar acció per lliscar cap amunt</string>
+    <string name="swipe_down_dlg_title">Seleccionar acció per lliscar cap avall</string>
+    <string name="tap_title">Un toc</string>
+    <string name="double_tap_title">Doble toc</string>
+    <string name="long_tap_title">Pulsació llarga</string>
+    <string name="tap_dlg_title">Selecciona una acció per a un sol toc</string>
+    <string name="double_tap_dlg_title">Selecciona una acció per a doble toc</string>
+    <string name="long_tap_dlg_title">Selecciona acció per a pulsació llarga</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Tocar per activar</string>
+    <string name="tap_to_wake_summary">Toca dues vegades a qualsevol lloc de la pantalla per activar el dispositiu</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Activar sensor de proximitat</string>
+    <string name="allow_proximity_sensor_summary">Comprova el sensor de proximitat abans de realitzar l\' acció</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">Ajustos de OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Ajustaments personalitzats per al teu dispositiu</string>
+    <!-- OnePlus - PanelModes -->
+    <string name="panel_modes_settings_title">Modes de pantalla</string>
+    <string name="panel_modes_settings_summary">Seleccioni un calibratge de pantalla ja creada</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">Control lliscant d\' alerta</string>
+    <string name="notification_slider_selection_dialog_title">Acció</string>
+    <string name="notification_slider_top_position">Posició superior</string>
+    <string name="notification_slider_middle_position">Posició mitjana</string>
+    <string name="notification_slider_bottom_position">Posició inferior</string>
+    <string name="notification_slider_mode_total_silence">Silenci total</string>
+    <string name="notification_slider_mode_alarms_only">Només alarmes</string>
+    <string name="notification_slider_mode_priority_only">Només prioritàries</string>
+    <string name="notification_slider_mode_silent">Silenci</string>
+    <string name="notification_slider_mode_vibrate">Vibrar</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Perfil d\' optimització</string>
+    <string name="thermal_summary">Ajustar perfils per aplicació per a un rendiment òptim</string>
+    <string name="thermal_default">Sense optimització</string>
+    <string name="thermal_benchmark">Rendiment</string>
+    <string name="thermal_browser">Navegador</string>
+    <string name="thermal_camera">Cambra</string>
+    <string name="thermal_dialer">Marcador de telèfon</string>
+    <string name="thermal_gaming">Jocs</string>
+    <string name="thermal_streaming">Aplicacions de streaming</string>
+    <!-- Raise to wake strings-->
+    <string name="raise_to_wake_gesture_title">Aixecar per despertar</string>
+    <string name="raise_to_wake_gesture_summary">Despertar el dispositiu en lloc de mostrar pols de notificació</string>
+    <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Taxa mínima de refresc</string>
+    <string name="device_power_save_refresh_rate">Estalviar bateria automàticament</string>
+    <string name="device_power_save_refresh_rate_switch">Disminuir automàticament la taxa de refresc quan l\'estalvi de bateria és activat</string>
+    <string name="refresh_rate_settings_title">Taxa de refresc de pantalla</string>
+    <string name="refresh_rate_settings_summary">Ajustar taxa de refresc de pantalla</string>
+    <string name="refresh_rate_tile_title">Taxa de refresc</string>
+    <string name="refresh_rate_tile_disabled">Estalvi de bateria activat</string>
+    <!-- Touch Control Settings -->
+    <string name="touch_control_title">Optimitzacions de la pantalla tàctil</string>
+    <string name="touch_game_mode_title">Activar el Mode Joc</string>
+    <string name="touch_game_mode_summary">Ajuda a millorar l\' experiència de joc optimitzant la pantalla tàctil</string>
+    <string name="touch_response_title">Resposta tàctil</string>
+    <string name="touch_response_summary">Controla la resposta tàctil</string>
+    <string name="touch_sensitivity_title">Sensibilitat tàctil</string>
+    <string name="touch_sensitivity_summary">Controla la sensibilitat als tocs repetits</string>
+    <string name="touch_resistant_title">Àrea resistent al tacte</string>
+    <string name="touch_resistant_summary">Redueix la sensibilitat a prop de les vores per evitar tocs accidentals</string>
+    <!-- Button settings -->
+    <string name="button_settings_title">Grum</string>
+    <string name="button_swap_summary">Intercanviar els botons de navegació</string>
+    <string name="home_button_extra_settings">Personalitzar el comportament del botó d\' inici</string>
+    <!-- Assistant button -->
+    <string name="assistant_button_action">Botó de l\' assistent</string>
+    <!-- Stylus pen -->
+    <string name="stylus_title">Lápiz Stylus</string>
+    <!-- High Brightness Mode-->
+    <string name="hbm_title">Mode de brillantor alta</string>
+    <!-- LCD Features -->
+    <string name="lcd_features_title">Característiques addicionals de pantalla</string>
+    <string name="lcd_features_summary">Mode d\'alta brillantor (HBM) &amp; control de retroil·luminació adaptable al contingut (CABC)</string>
+    <string name="lcd_features_info">El mode d\'alta brillantor HBM (High Brightness Mode) augmenta la brillantor màxima de la pantalla per millorar la visibilitat sota la llum del sol. Augmenta el consum d\'energia.\n\nCABC (Content Adaptive Backlight Control) ajusta la brillantor de la pantalla i de la retroil·luminació en funció del contingut mostrat en aquell moment, per reduir el consum d\'energia sense degradar-lo.</string>
+    <string name="kernel_not_supported">Aquesta funció no és suportada pel kernel</string>
+    <string name="lcd_hbm_title">Mode de brillantor alta</string>
+    <string name="lcd_hbm_summary">Augmenta la brillantor de la pantalla sota la llum del sol</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_hbm_title_enabled">Activat</string>
+    <string name="lcd_hbm_title_disabled">Desactivat</string>
+    <string name="lcd_cabc_title">Control de contrallum adaptiu de contingut</string>
+    <string name="lcd_cabc_tile_title">CABC</string>
+    <string name="lcd_cabc_off">Desactivat</string>
+    <string name="lcd_cabc_low">Baix (UI)</string>
+    <string name="lcd_cabc_medium">Mitjà (Videos)</string>
+    <string name="lcd_cabc_high">Alt (Imatges)</string>
+    <!-- Always on brightness -->
+    <string name="doze_brightness_title">Brillantor de sempre encesa</string>
+    <string name="doze_brightness_summary">Mode %s activat</string>
+    <string name="doze_brightness_low">Brillantor baixa</string>
+    <string name="doze_brightness_high">Brillantor alta</string>
+    <string name="doze_brightness_adaptive">Brillantor automàtica</string>
+    <!-- Refresh Rate per-app -->
+    <string name="refresh_title">Taxa de refresc per aplicació</string>
+    <string name="refresh_summary">Establir una taxa de refresc especifica per a cada aplicació</string>
+    <string name="refresh_default">Predeterminat</string>
+    <string name="refresh_low">Baix (30 Hz)</string>
+    <string name="refresh_medium">Mitjà (60 Hz)</string>
+    <string name="refresh_high">Alt (90 Hz)</string>
+    <string name="refresh_extreme">Extrem (120 Hz)</string>
+    <!-- Powershare -->
+    <string name="powershare_enable_title">Compartir bateria</string>
+    <string name="powershare_enable_summary">Utilitzi la connexió sense fil per compartir la seva energia amb altres dispositius</string>
+</resources>
