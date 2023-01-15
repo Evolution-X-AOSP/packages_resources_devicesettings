@@ -190,7 +190,7 @@
     <string name="thermal_streaming">Applicazioni di streaming</string>
     <!-- Raise to wake strings-->
     <string name="raise_to_wake_gesture_title">Alza per attivare</string>
-    <string name="raise_to_wake_gesture_summary">Attiva il dispositivo invece delle notifiche LED</string>
+    <string name="raise_to_wake_gesture_summary">Attiva il dispositivo invece di mostrare le notifiche al sollevamento</string>
     <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Frequenza di aggiornamento minima</string>
     <string name="device_power_save_refresh_rate">Risparmia automaticamente la batteria</string>
