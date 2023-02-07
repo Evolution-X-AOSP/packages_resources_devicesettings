@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">صفحه نمایش</string>
+    <string name="dc_dimming_enable_title">تصویر بدون پرش</string>
+    <string name="dc_dimming_enable_summary">ممکن است دقت رنگ را تضعیف کرده و نحوه نمایش برخی موارد را تحت تأثیر قرار دهد.</string>
+    <string name="dc_dimming_enable_summary_not_supported">درحال حاضر قابلیت ضد پرش تصویر توسط کرنل پشتیبانی نمیشود</string>
+    <!-- Dirac settings -->
+    <string name="dirac_enable">تقویت‌کننده صدای Mi</string>
+    <string name="dirac_title">تقویت‌کننده صدای Mi</string>
+    <string name="dirac_summary">بهینه‌سازی کیفیت صدا</string>
+    <string name="dirac_headset_title">نوع هدفون‌ها را انتخاب کنید</string>
+    <string name="dirac_preset_title">یک مورد از پیش تعیین شده را انتخاب کنید</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">صداهای اضافی و ناهموار را کم کنید و کیفیت صدا را بیشتر کنید</string>
+    <string name="dirac_hifi_enable_title">فعال سازی Hi-fi</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">پیش‌فرض</string>
+    <string name="dirac_headset_earbuds">ریز هدفون Mi</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">عمومی</string>
+    <string name="dirac_headset_general_inear">درون گوشی عمومی</string>
+    <string name="dirac_headset_piston_basic">نسخه پایه</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">نسخه استاندارد</string>
+    <string name="dirac_headset_headphone">هدفون Mi</string>
+    <string name="dirac_headset_piston_youth">نسخه جوانان</string>
+    <string name="dirac_headset_piston_color">نسخه رنگی</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">کپسول Mi</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">کاهنده اختلال صدای Mi نوع C</string>
+    <string name="dirac_headset_cancelling">کاهنده اختلال صدای Mi ۳. ۵ میلی‌متری</string>
+    <string name="dirac_headset_half_in_ear">نیم‌درون گوشی Mi</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">هندزفری‌های اصلی Mi</string>
+    <string name="dirac_headset_earphone">هندزفری‌های Mi</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">پیش‌فرض</string>
+    <string name="dirac_preset_rock">راک</string>
+    <string name="dirac_preset_jazz">جاز</string>
+    <string name="dirac_preset_pop">پاپ</string>
+    <string name="dirac_preset_classical">کلاسیک</string>
+    <string name="dirac_preset_hiphop">هیپ هاپ</string>
+    <string name="dirac_preset_blues">بلوز</string>
+    <string name="dirac_preset_electronic">الکترونیک</string>
+    <string name="dirac_preset_country">كشور</string>
+    <string name="dirac_preset_dance">رقص</string>
+    <string name="dirac_preset_metal">متال</string>
+    <string name="dirac_preset_bass_booster">تقویت کننده باس</string>
+    <string name="dirac_preset_live">زنده</string>
+    <string name="dirac_preset_balanced">متعادل</string>
+    <string name="dirac_preset_bass_reduction">کاهش صدای باس</string>
+    <string name="dirac_preset_treble_reduction">کاهش صدای زیر</string>
+    <string name="dirac_preset_soft_bass">باس ملایم</string>
+    <string name="dirac_preset_soft_treble">زیر ملایم</string>
+    <!-- Dirac Scene Selection -->
+    <string name="music_headset_scenario_select">انتخاب حالت</string>
+    <string name="music_headset_scenario_intelligent">هوشمند</string>
+    <string name="music_headset_scenario_music">موسیقی</string>
+    <string name="music_headset_scenario_video">ویدیو</string>
+    <string name="music_headset_scenario_vocal">صدا</string>
+    <!-- Popup camera settings -->
+    <string name="popup_settings_title">تنظیمات دوربین بیرون جهنده</string>
+    <string name="popup_led_title">LED دوربین</string>
+    <string name="popup_led_summary">هنگامی که دوربین جلو ظاهر می شود و مخفی می شود ، چراغ LED نشان داده شود</string>
+    <string name="popup_sound_title">جلوه های صوتی</string>
+    <string name="popup_title_muqin">سنتور چوبی</string>
+    <string name="popup_title_yingyan">کرکس</string>
+    <string name="popup_title_mofa">جادو</string>
+    <string name="popup_title_jijia">آدم آهنی</string>
+    <string name="popup_title_chilun">چرخ‌دنده</string>
+    <string name="popup_title_cangmen">درب کابین</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">توجه</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">دوربین جلو بسته نشد. دوربین را کالیبر کنید.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">دوربین جلو باز نشد. دوربین را کالیبر کنید.</string>
+    <string name="popup_camera_calibrate_running">از دوربین جلو در هنگام کالیبراسیون نمی توان استفاده کرد.</string>
+    <string name="popup_camera_calibrate_now">کالیبره</string>
+    <string name="popup_camera_calibrate_failed">کالیبر نشد</string>
+    <string name="popup_camera_calibrate_success">با موفقیت کالیبر شد. حالا می‌توانید دوربین جلو را باز کنید.</string>
+    <string name="stop_operate_camera_frequently">شما در حال باز و بسته کردن مکرر دوربین جلو هستید.</string>
+    <string name="takeback_camera_front_failed">دوربین جلو بسته نشد. دوباره تلاش کنید.</string>
+    <string name="popup_camera_front_failed">دوربین جلو باز نشد. دوباره تلاش کنید.</string>
+    <string name="popup_camera_proximity_obstructed">دست خود را از حسگر مجاورت جدا کنید تا دوربین جلو باز شود...</string>
+    <!-- Clear Speaker -->
+    <string name="clear_speaker_title">پاکسازی بلندگو</string>
+    <string name="clear_speaker_summary">یک صدای ۳۰ ثانیه‌ای پخش می‌شود تا بلندگو تمیز شود</string>
+    <string name="clear_speaker_description">اگر متوجه شدید بلندگو کمی توسط خاک مسدود شده است از این قابلیت یک یا دوبار استفاده کنید. صدای دستگاه در بالاترین حد تنظیم شود.\n\n اگر شدت مسدود شدن زیاد است، درحالی که دستگاه خود را هنگامی که اسپیکر رو به پایین است تکان میدهید از این قابلیت ۵-۲ بار استفاده کنید.</string>
+    <!-- Moto Actions - Title and summary -->
+    <string name="moto_actions_title">اقدامات Moto</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">ژست‌های دستگاه</string>
+    <string name="device_gestures_summary">مدیریت حرکات دستگاه</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">مدیریت حرکات نمایشگر محیطی</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">اشاره‌های اثر انگشت</string>
+    <string name="fingerprint_gestures_summary">استفاده از وضعیت های اثر انگشت</string>
+    <string name="fingerprint_gestures_manage_summary">مدیریت وضعیت های اثر انگشت</string>
+    <string name="fingerprint_actions_screenon">اقدامات هنگام روشن بودن صفحه</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">وضعیت های اثر انگشت هنگام خاموش بودن صفحه</string>
+    <string name="fingerprint_gestures_screenoff_summary">از وضعیت های اثرانگشت هنگام خاموش بودن صفحه استفاده کن.\n\nبرای استفاده از این ویژگی باید باز کردن قفل با اثر انگشت غیر فعال باشد.</string>
+    <string name="fingerprint_actions_screenoff">اقدامات هنگام خاموش بودن صفحه</string>
+    <!-- Actions -->
+    <string name="action_home">خانه</string>
+    <string name="action_power">صفحه نمایش خاموش/روشن</string>
+    <string name="action_wake">بیدار شدن</string>
+    <string name="action_back">برگشت</string>
+    <string name="action_recents">برنامه‌های اخیر</string>
+    <string name="action_last_app">برنامه قبلی</string>
+    <string name="action_volume_up">افزایش صدا</string>
+    <string name="action_volume_down">کاهش صدا</string>
+    <string name="action_voice_assistant">دستیار صوتی</string>
+    <string name="action_play_pause">پخش/توقف</string>
+    <string name="action_previous_track">آهنگ قبلی</string>
+    <string name="action_next_track">آهنگ بعدی</string>
+    <string name="action_flashlight">چراغ قوه خاموش/روشن</string>
+    <string name="action_camera">باز کردن دوربین</string>
+    <string name="action_screenshot">گرفتن اسکرین‌شات</string>
+    <string name="action_browser">باز کردن مرورگر</string>
+    <string name="action_dialer">باز کردن شماره گیر</string>
+    <string name="action_email">باز کردن برنامه ی ایمیل</string>
+    <string name="action_messages">باز کردن برنامه ی پیام رسانی</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">مدیریت حرکت ها هنگام خاموش بودن صفحه</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">انتخاب عمل برای کشیدن به چپ</string>
+    <string name="swipe_right_dlg_title">انتخاب عمل برای کشیدن به راست</string>
+    <string name="swipe_up_dlg_title">انتخاب عمل برای کشیدن به بالا</string>
+    <string name="swipe_down_dlg_title">انتخاب عمل برای کشیدن به پایین</string>
+    <string name="tap_title">یک ضربه</string>
+    <string name="double_tap_title">دو ضربه</string>
+    <string name="long_tap_title">ضربه ی طولانی</string>
+    <string name="tap_dlg_title">انتخاب عمل برای یک صربه</string>
+    <string name="double_tap_dlg_title">انتخاب عمل برای دو صربه</string>
+    <string name="long_tap_dlg_title">انتخاب عمل برای صربه ی طولانی</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">بیدار شدن با یک ضربه</string>
+    <string name="tap_to_wake_summary">برای بیدار شدن دستگاه، هر جایی از صفحه را دوبار لمس کنید</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">اجازه دادن به سنسور مجاورت</string>
+    <string name="allow_proximity_sensor_summary">قبل از انجام عمل، سنسور مجاورت را بررسی کن</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">تنظیمات وان پلاس</string>
+    <string name="oneplus_advanced_settings_summary">تنظیمات سفارشی برای دستگاه شما</string>
+    <!-- OnePlus - PanelModes -->
+    <string name="panel_modes_settings_title">حالت های پنل</string>
+    <string name="panel_modes_settings_summary">کالیبراسیون صفحه نمایش از پیش ساخته شده را انتخاب کنید</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">دکمه کشویی</string>
+    <string name="notification_slider_selection_dialog_title">عمل</string>
+    <string name="notification_slider_top_position">موقعیت بالا</string>
+    <string name="notification_slider_middle_position">موقعیت میانی</string>
+    <string name="notification_slider_bottom_position">موقعیت پایین</string>
+    <string name="notification_slider_mode_total_silence">سکوت کامل</string>
+    <string name="notification_slider_mode_alarms_only">فقط هشدارها</string>
+    <string name="notification_slider_mode_priority_only">فقط اولویت</string>
+    <string name="notification_slider_mode_silent">بی‌صدا</string>
+    <string name="notification_slider_mode_vibrate">لرزش</string>
+    <string name="notification_slider_mode_none">عادی</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">پروفایل بهینه سازی</string>
+    <string name="thermal_summary">تنظیم مشخصات مختص هر برنامه برای عملکرد مطلوب</string>
+    <string name="thermal_default">بدون بهینه سازی</string>
+    <string name="thermal_benchmark">کارایی</string>
+    <string name="thermal_browser">مرورگر</string>
+    <string name="thermal_camera">دوربین</string>
+    <string name="thermal_dialer">شماره گیر</string>
+    <string name="thermal_gaming">بازی‌ها</string>
+    <string name="thermal_streaming">برنامه های پخش</string>
+    <!-- Raise to wake strings-->
+    <string name="raise_to_wake_gesture_title">روشن شدن صفحه با برداشتن</string>
+    <string name="raise_to_wake_gesture_summary">بیدار کردن صفحه به جای چشمک زدن اعلان ها</string>
+    <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">حداقل نرخ نوسازی نمایشگر</string>
+    <string name="device_power_save_refresh_rate">ذخیره باتری به صورت خودکار</string>
+    <string name="device_power_save_refresh_rate_switch">وقتی صرفه جویی در باتری فعال است ، نرخ تازه سازی را خودکار خودکار کاهش میدهد</string>
+    <string name="refresh_rate_settings_title">نرخ تازه سازی صفحه نمایش</string>
+    <string name="refresh_rate_settings_summary">تنظیم نرخ تجدید صفحه</string>
+    <string name="refresh_rate_tile_title">نرخ به روزرسانی</string>
+    <string name="refresh_rate_tile_disabled">فعال سازی صرفه جویی در باتری</string>
+    <!-- Touch Control Settings -->
+    <string name="touch_control_title">بهینه سازی صفحه لمسی</string>
+    <string name="touch_game_mode_title">فعال سازی حالت بازی</string>
+    <string name="touch_game_mode_summary">با بهینه سازی صفحه لمسی به بهبود تجربه بازی کردن کمک میکند</string>
+    <string name="touch_response_title">واکنش لمسی</string>
+    <string name="touch_response_summary">تنظیم پاسخدهی لمس</string>
+    <string name="touch_sensitivity_title">حساسیت لمسی</string>
+    <string name="touch_sensitivity_summary">کنترل تغداد ضربه به صفخه</string>
+    <string name="touch_resistant_title">منطقه ضد لمس</string>
+    <string name="touch_resistant_summary">حساسیت نزدیک لبه ها را کاهش می دهد تا از لمس تصادفی جلوگیری کند</string>
+    <!-- Button settings -->
+    <string name="button_settings_title">دکمه‌‌ها</string>
+    <string name="button_swap_summary">تعویض دکمه های ناوبری</string>
+    <string name="home_button_extra_settings">سفارشی کردن دکمه خانه</string>
+    <!-- Assistant button -->
+    <string name="assistant_button_action">فغالیت دکمه دستیار</string>
+    <!-- Stylus pen -->
+    <string name="stylus_title">قلم Stylus</string>
+    <!-- High Brightness Mode-->
+    <string name="hbm_title">حالت روشنایی بالا</string>
+    <!-- LCD Features -->
+    <string name="lcd_features_title">ویژگی‌های اضافی نمایشگر</string>
+    <string name="lcd_features_summary">حالت بیشینه روشنایی صفحه (HBM)&amp; و تنظیم نور زمینه مطابق با محتوا (CABC)</string>
+    <string name="lcd_features_info">حالت بیشینه روشنایی صفحه (HBM) برای وضوح بیشتر در آفتاب، بیشینه نور نمایشگر و مصرف انرژی را افزایش می‌دهد. \n\n
+تنظیم نور زمینه مطابق با محتوا (CABC) برای کاهش مصرف انرژی بدون افت کیفیت، نمایشگر و نور زمینه را مطابق با محتوای در حال نمایش، تنظیم می‌کند.</string>
+    <string name="kernel_not_supported">سیستم‌عامل از این ویژگی پشتیبانی نمی‌کند</string>
+    <string name="lcd_hbm_title">حالت روشنایی بالا</string>
+    <string name="lcd_hbm_summary">افزایش میزان روشنایی در زیر نور آفتاب</string>
+    <string name="lcd_hbm_tile_title">حالت بیشینه روشنایی صفحه</string>
+    <string name="lcd_hbm_title_enabled">فعال</string>
+    <string name="lcd_hbm_title_disabled">غیرفعال شده</string>
+    <string name="lcd_cabc_title">تنظیم نور زمینه مطابق با محتوا</string>
+    <string name="lcd_cabc_tile_title">CABC</string>
+    <string name="lcd_cabc_off">خاموش</string>
+    <string name="lcd_cabc_low">کم (مناسب برای واسط کاربری)</string>
+    <string name="lcd_cabc_medium">متوسط (مناسب برای ویدیو)</string>
+    <string name="lcd_cabc_high">زیاد (مناسب برای عکس)</string>
+    <!-- Always on brightness -->
+    <string name="doze_brightness_title">روشنایی نمایشگر همیشه روشن</string>
+    <string name="doze_brightness_summary">حالت %s فعال شده است</string>
+    <string name="doze_brightness_low">روشنایی کم</string>
+    <string name="doze_brightness_high">حالت روشنایی بالا</string>
+    <string name="doze_brightness_adaptive">روشنایی تطبیقی</string>
+    <!-- Refresh Rate per-app -->
+    <string name="refresh_title">تنظیم نرخ نوسازی نمایشگر در برنامه</string>
+    <string name="refresh_summary">برای هر برنامه، نرخ نوسازی نمایشگر مشخصی تنظیم کنید</string>
+    <string name="refresh_default">پیش‌فرض</string>
+    <string name="refresh_low">کم (30Hz)</string>
+    <string name="refresh_medium">متوسط (60Hz)</string>
+    <string name="refresh_high">زیاد (90Hz)</string>
+    <string name="refresh_extreme">شدید (120Hz)</string>
+    <!-- Powershare -->
+    <string name="powershare_enable_title">اشتراک باتری</string>
+    <string name="powershare_enable_summary">سایر دستگاه ها را با قرار دادن آنها در پشت دستگاه تلفن خود شارژ کنید</string>
+</resources>
