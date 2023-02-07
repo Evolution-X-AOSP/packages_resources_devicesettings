@@ -192,12 +192,12 @@
     <string name="raise_to_wake_gesture_title">Anheben, um aufzuwecken</string>
     <string name="raise_to_wake_gesture_summary">Das Gerät aufwecken, wenn eine Benachrichtigung eintrifft</string>
     <!-- Refresh Rate Settings -->
-    <string name="device_min_refresh_rate">Minimale Aktualisierungsrate</string>
-    <string name="device_power_save_refresh_rate">Batterie automatisch sparen</string>
-    <string name="device_power_save_refresh_rate_switch">Automatisch niedrigere Bildwiederholfrequenz, wenn der Energiesparmodus aktiv ist</string>
-    <string name="refresh_rate_settings_title">Bildschirmwiederholungsrate</string>
-    <string name="refresh_rate_settings_summary">Bildschirmaktualisierungsrate anpassen</string>
-    <string name="refresh_rate_tile_title">Aktualisierungsrate </string>
+    <string name="device_min_refresh_rate">Bildwiederholrate (Minimal)</string>
+    <string name="device_power_save_refresh_rate">Automatisches Energiesparen der Batterie</string>
+    <string name="device_power_save_refresh_rate_switch">Automatisch niedrigere Bildwiederholrate im Energiesparmodus</string>
+    <string name="refresh_rate_settings_title">Bildwiederholrate</string>
+    <string name="refresh_rate_settings_summary">Bildwiederholrate anpassen</string>
+    <string name="refresh_rate_tile_title">Bildwiederholrate</string>
     <string name="refresh_rate_tile_disabled">Energiesparmodus aktiviert</string>
     <!-- Touch Control Settings -->
     <string name="touch_control_title">Touchscreen-Optimierungen</string>
