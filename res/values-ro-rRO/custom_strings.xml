@@ -21,15 +21,15 @@
     <string name="dc_dimming_enable_summary">Modul Anti-pâlpâire ajută la reducerea oboselii ochilor în condiții de lumină slabă, utilizând funcția „DC dimming”. S-ar putea să degradeze precizia culorii și să afecteze modul în care sunt afișate unele elemente.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti-pâlpâirea nu este suportată de către nucleu</string>
     <!-- Dirac settings -->
-    <string name="dirac_enable">Utilizați amplificatorul Mi Sound</string>
+    <string name="dirac_enable">Utilizează amplificatorul Mi Sound</string>
     <string name="dirac_title">Amplificatorul Mi Sound</string>
     <string name="dirac_summary">Optimizare calitate audio</string>
     <string name="dirac_headset_title">Alege tipul de căști</string>
-    <string name="dirac_preset_title">Selectați o presetare</string>
+    <string name="dirac_preset_title">Alege o presetare</string>
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi</string>
     <string name="dirac_hifi_summary">Reducere zgomotul și distorsiunile și crește calitatea sunetului</string>
-    <string name="dirac_hifi_enable_title">Activați Hi-Fi</string>
+    <string name="dirac_hifi_enable_title">Activează Hi-fi</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Implicit</string>
     <string name="dirac_headset_earbuds">Căști în ureche Mi</string>
@@ -91,20 +91,20 @@
     <string name="popup_title_cangmen">Ușa cabinei</string>
     <!-- Popup camera strings -->
     <string name="popup_camera_tip">Atenție</string>
-    <string name="popup_camera_takeback_failed_times_calibrate">Nu s-a putut închide camera frontală de mai multe ori. Încercați calibrarea camerei.</string>
-    <string name="popup_camera_popup_failed_times_calibrate">Nu s-a putut deschide camera frontală de mai multe ori. Încercați calibrarea camerei.</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Nu s-a putut închide camera frontală de mai multe ori. Încearcă calibrarea camerei.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Nu s-a putut deschide camera frontală de mai multe ori. Încearcă calibrarea camerei.</string>
     <string name="popup_camera_calibrate_running">Camera frontală nu poate fi utilizată în timpul calibrării.</string>
     <string name="popup_camera_calibrate_now">Calibrare</string>
     <string name="popup_camera_calibrate_failed">Nu s-a putut calibra</string>
     <string name="popup_camera_calibrate_success">Calibrat cu succes. Puteți deschide camera frontală acum.</string>
-    <string name="stop_operate_camera_frequently">Deschideți camera frontală prea frecvent.</string>
-    <string name="takeback_camera_front_failed">Nu s-a putut închide camera frontală. Încercați din nou.</string>
-    <string name="popup_camera_front_failed">Nu s-a putut deschide camera frontală. Încercați din nou.</string>
-    <string name="popup_camera_proximity_obstructed">Înlăturați mâna de pe senzorul de proximitate pentru a deschide camera frontală...</string>
+    <string name="stop_operate_camera_frequently">Deschizi camera frontală prea frecvent.</string>
+    <string name="takeback_camera_front_failed">Nu s-a putut închide camera frontală. Încearcă din nou.</string>
+    <string name="popup_camera_front_failed">Nu s-a putut deschide camera frontală. Încearcă din nou.</string>
+    <string name="popup_camera_proximity_obstructed">Înlătură mâna de pe senzorul de proximitate pentru a deschide camera frontală...</string>
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">Curățare difuzor</string>
     <string name="clear_speaker_summary">Redă un sunet de 30 de secunde pentru a curăța difuzorul</string>
-    <string name="clear_speaker_description">Rulați această caracteristică o dată sau de două ori dacă descoperiți că difuzorul dvs. este ușor blocat de praf. Setați volumul media la maxim.\n\n Dacă difuzorul este blocat puternic, rulați această caracteristică de 2-5 ori în timp ce scuturați dispozitivul cu difuzorul orientat în jos.</string>
+    <string name="clear_speaker_description">Rulează această caracteristică o dată sau de două ori dacă descoperi că difuzorul este ușor blocat de praf. Setează volumul media la maxim.\n\nÎn cazul în care difuzorul este blocat puternic, rulează această caracteristică de 2-5 ori în timp ce scuturi dispozitivul cu difuzorul în jos.</string>
     <!-- Moto Actions - Title and summary -->
     <string name="moto_actions_title">Acțiuni Moto</string>
     <!-- Device gestures -->
