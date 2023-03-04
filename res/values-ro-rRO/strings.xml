@@ -30,30 +30,30 @@
     <string name="touchscreen_gesture_settings_summary">Efectuați diverse gesturi pe ecran pentru acţiuni rapide</string>
     <string name="gesture_display_title">Gesturi pe ecranul oprit</string>
     <string name="touchscreen_c_gesture_title">Cameră</string>
-    <string name="touchscreen_c_gesture_summary">Desenați un \"C\" pentru a activa camera</string>
+    <string name="touchscreen_c_gesture_summary">Desenează un \"C\" pentru a activa camera</string>
     <string name="touchscreen_e_gesture_title">E-mail</string>
-    <string name="touchscreen_e_gesture_summary">Desenați un \"e\" pentru a deschide aplicația e-mail</string>
+    <string name="touchscreen_e_gesture_summary">Desenează un \"e\" pentru a deschide aplicația e-mail</string>
     <string name="touchscreen_m_gesture_title">Mesagerie</string>
-    <string name="touchscreen_m_gesture_summary">Desenați un \"M\" pentru a deschide aplicația mesagerie</string>
+    <string name="touchscreen_m_gesture_summary">Desenează un \"M\" pentru a deschide aplicația mesagerie</string>
     <string name="touchscreen_s_gesture_title">Mesagerie</string>
-    <string name="touchscreen_s_gesture_summary">Desenați un \"S\" pentru a deschide aplicația mesagerie</string>
+    <string name="touchscreen_s_gesture_summary">Desenează un \"S\" pentru a deschide aplicația mesagerie</string>
     <string name="touchscreen_v_gesture_title">Telefon</string>
-    <string name="touchscreen_v_gesture_summary">Desenați un \"V\" pentru a deschide aplicația telefon</string>
+    <string name="touchscreen_v_gesture_summary">Desenează un \"V\" pentru a deschide aplicația telefon</string>
     <string name="touchscreen_w_gesture_title">Browser</string>
-    <string name="touchscreen_w_gesture_summary">Desenați un \"W\" pentru a deschide aplicația browser</string>
+    <string name="touchscreen_w_gesture_summary">Desenează un \"W\" pentru a deschide aplicația browser</string>
     <string name="touchscreen_z_gesture_title">Lanternă</string>
-    <string name="touchscreen_z_gesture_summary">Desenați un „Z” pentru a deschide lanterna</string>
+    <string name="touchscreen_z_gesture_summary">Desenează un „Z” pentru a deschide lanterna</string>
     <string name="touchscreen_flashlight_gesture_title">Lanternă</string>
-    <string name="touchscreen_flashlight_gesture_summary">Desenați un cerc pentru a deschide lanterna</string>
+    <string name="touchscreen_flashlight_gesture_summary">Desenează un cerc pentru a deschide lanterna</string>
     <string name="touchscreen_music_gesture_title">Muzică</string>
-    <string name="touchscreen_music_gesture_summary">Folosiți gesturi pentru a controla redarea muzicii \n
-    • Glisați în jos pentru a reda/opri\n
-    • Glisați stânga pentru melodia anterioară\n
-    • Glisați dreapta pentru melodia următoare</string>
-    <string name="touchscreen_swipe_up_title">Glisați în sus</string>
-    <string name="touchscreen_swipe_right_title">Glisați spre dreapta</string>
-    <string name="touchscreen_swipe_down_title">Glisați în jos</string>
-    <string name="touchscreen_swipe_left_title">Glisați spre stânga</string>
+    <string name="touchscreen_music_gesture_summary">Folosește gesturi pentru a controla redarea muzicii \n
+    • Glisează în jos pentru a reda/opri\n
+    • Glisează spre stânga pentru melodia anterioară\n
+    • Glisează spre dreapta pentru melodia următoare</string>
+    <string name="touchscreen_swipe_up_title">Glisare în sus</string>
+    <string name="touchscreen_swipe_right_title">Glisare spre dreapta</string>
+    <string name="touchscreen_swipe_down_title">Glisare în jos</string>
+    <string name="touchscreen_swipe_left_title">Glisare spre stânga</string>
     <!-- User-aware display -->
     <string name="user_aware_display_title">Ecran reactiv la gesturi utilizator</string>
     <string name="user_aware_display_summary">Menține ecranul aprins cât timp utilizatorul este în dreptul afișajului</string>
@@ -105,14 +105,14 @@
     <string name="hand_wave_silencer_summary">Pune pe mut apelurile de intrare mișcând mâna deasupra ecranului</string>
     <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">Rotește pentru Nu Deranja</string>
-    <string name="flip_to_mute_summary">Puneți telefonul cu fața în jos pentru a face notificările și apelurile silențioase</string>
+    <string name="flip_to_mute_summary">Pune telefonul cu fața în jos pentru a face notificările și apelurile silențioase</string>
     <!-- Do Not Disturb access -->
-    <string name="dnd_access">Vă rugăm acordați modului Nu Deranjați acces la CMActions pentru a utiliza această caracteristică.</string>
+    <string name="dnd_access">Acordă modului Nu Deranjați acces la CMActions pentru a utiliza această caracteristică.</string>
     <!-- Lift to silence gesture -->
     <string name="lift_to_silence_title">Ridicați pentru a opri apelarea</string>
-    <string name="lift_to_silence_summary">Ridicați telefonul pentru a face apelurile de intrare silențioase. Funcționează doar când telefonul începe din poziție plană orizontală</string>
+    <string name="lift_to_silence_summary">Ridică telefonul pentru a face apelurile de intrare silențioase. Funcționează doar când telefonul începe din poziție plană orizontală</string>
     <!-- Action toggles -->
-    <string name="action_none">Dezactivați</string>
+    <string name="action_none">Dezactivare</string>
     <string name="action_launch_camera">Lansare cameră foto</string>
     <string name="action_torch">Comutare lanternă</string>
     <!-- Feedback intensity -->
@@ -136,7 +136,7 @@
     <!-- Fingerprint -->
     <string name="fingerprint_title">Amprentă</string>
     <string name="fingerprint_as_home_title">Amprentă ca acasă</string>
-    <string name="fingerprint_as_home_summary">Utilizați senzorul de amprentă ca un buton de acasă</string>
+    <string name="fingerprint_as_home_summary">Folosește senzorul de amprentă ca un buton acasă</string>
     <string name="fingerprint_wakeup_title">Trezire amprentă</string>
     <string name="fingerprint_wakeup_summary">Permite senzorului de amprentă să trezească dispozitivul când ecranul este oprit</string>
     <string name="fingerprint_pocketmode_title">Prevenire trezire accidentală</string>
