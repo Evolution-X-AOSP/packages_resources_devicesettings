@@ -116,7 +116,7 @@
     <string name="action_launch_camera">Avvia fotocamera</string>
     <string name="action_torch">Accendi/Spegni torcia</string>
     <!-- Feedback intensity -->
-    <string name="feedback_intensity_title">Intensità del feedback aptico</string>
+    <string name="feedback_intensity_title">Intensità del feedback tattile</string>
     <string name="feedback_intensity_summary">Intensità del feedback tattile per le azioni doppio scuotimento e chop-chop</string>
     <string name="feedback_intensity_none">Disabilitata</string>
     <string name="feedback_intensity_low">Bassa</string>
