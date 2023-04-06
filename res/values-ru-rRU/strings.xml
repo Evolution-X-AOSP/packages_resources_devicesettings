@@ -135,7 +135,7 @@
     <string name="button_swap_summary">Поменять местами кнопки назад и недвание</string>
     <!-- Fingerprint -->
     <string name="fingerprint_title">Сканер отпечатка пальцев</string>
-    <string name="fingerprint_as_home_title">Переход на домашний экран</string>
+    <string name="fingerprint_as_home_title">Переход на главный экран</string>
     <string name="fingerprint_as_home_summary">Использовать сканер отпечатков пальцев в качестве кнопки «Домой»</string>
     <string name="fingerprint_wakeup_title">Выход из режима сна</string>
     <string name="fingerprint_wakeup_summary">Включать экран при касании датчика отпечатков пальцев</string>
