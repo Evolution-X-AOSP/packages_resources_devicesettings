@@ -192,7 +192,7 @@
     <string name="raise_to_wake_gesture_title">Nhấc để đánh thức</string>
     <string name="raise_to_wake_gesture_summary">Đánh thức thiết bị thay vì hiện thông báo</string>
     <!-- Refresh Rate Settings -->
-    <string name="device_min_refresh_rate">Tốc độ làm mới tối thiểu</string>
+    <string name="device_min_refresh_rate">Tần số quét tối thiểu</string>
     <string name="device_power_save_refresh_rate">Tiết kiệm pin tự động</string>
     <string name="device_power_save_refresh_rate_switch">Tự động giảm tốc độ làm mới khi bật tiết kiệm pin</string>
     <string name="refresh_rate_settings_title">Tần số quét của màn hình</string>
@@ -206,7 +206,7 @@
     <string name="touch_response_title">Phản hồi cảm ứng</string>
     <string name="touch_response_summary">Điều khiển phản ứng chạm</string>
     <string name="touch_sensitivity_title">Độ nhạy cảm ứng</string>
-    <string name="touch_sensitivity_summary">Kiểm soát độ nhạy cho các lần chạm lặp lại</string>
+    <string name="touch_sensitivity_summary">Kiểm soát độ nhạy cho các lần chạm liên tục</string>
     <string name="touch_resistant_title">Khu vực không cảm ứng</string>
     <string name="touch_resistant_summary">Giảm độ nhạy gần các cạnh để tránh chạm nhầm</string>
     <!-- Button settings -->
@@ -243,7 +243,7 @@
     <string name="doze_brightness_adaptive">Độ sáng thích ứng</string>
     <!-- Refresh Rate per-app -->
     <string name="refresh_title">Tốc độ làm mới cho mỗi ứng dụng</string>
-    <string name="refresh_summary">Đặt tốc độ làm mới cụ thể cho từng ứng dụng</string>
+    <string name="refresh_summary">Đặt tần số quét riêng cho từng ứng dụng</string>
     <string name="refresh_default">Mặc định</string>
     <string name="refresh_low">Thấp (30Hz)</string>
     <string name="refresh_medium">Trung bình (60Hz)</string>
