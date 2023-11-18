@@ -130,7 +130,7 @@
     <string name="doze_settings_help_title">Ajut</string>
     <string name="doze_settings_help_text">Aquestes característiques fan servir esdeveniments de sensors per llançar una notificació de pantalla ambient. El sensor seleccionat només s\'activa quan el dispositiu rep una notificació, cosa que ajuda a reduir l\'ús de la bateria. També hi ha una opció per habilitar el sensor seleccionat quan la pantalla s\'apagui però això causarà un major consum de bateria.</string>
     <!-- Button settings -->
-    <string name="button_panel_title">Grum addicionals</string>
+    <string name="button_panel_title">Botons addicionals</string>
     <string name="button_swap_title">Intercanviar botons</string>
     <string name="button_swap_summary">Canviar l\'ordre dels botons Recents i Enrere</string>
     <!-- Fingerprint -->
