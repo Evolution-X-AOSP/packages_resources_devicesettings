@@ -107,7 +107,7 @@
     <string name="flip_to_mute_title">裏返して Do Not Disturb</string>
     <string name="flip_to_mute_summary">端末を裏向きにして通知と通話をサイレントにする</string>
     <!-- Do Not Disturb access -->
-    <string name="dnd_access">この機能を使うために CMActions にマナーモードの権限を与えて下さい。</string>
+    <string name="dnd_access">この機能を使うために CMActions にマナーモードの権限を与えてください。</string>
     <!-- Lift to silence gesture -->
     <string name="lift_to_silence_title">持ち上げて着信音停止</string>
     <string name="lift_to_silence_summary">端末を持ち上げたときに着信音をサイレントにします。端末が水平面にあった場合にのみ動作します。</string>
@@ -148,10 +148,10 @@
     <string name="high_touch_sensitivity_summary">手袋を着けたまま使用できるようにタッチ画面の感度を向上させる</string>
     <!-- Quick charge toggle -->
     <string name="quick_charge_title">急速充電</string>
-    <string name="quick_charge_summary">急速充電を切り替えます。この設定の変更後は充電器を抜き差しして下さい。</string>
+    <string name="quick_charge_summary">急速充電を切り替えます。この設定の変更後は充電器を抜き差ししてください。</string>
     <!-- Camera focus fix toggle -->
     <string name="camera_focus_fix_title">カメラフォーカス修正</string>
-    <string name="camera_focus_fix_summary">カメラのフォーカスに問題がある場合は有効化して下さい</string>
+    <string name="camera_focus_fix_summary">カメラのフォーカスに問題がある場合は有効化してください</string>
     <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">ジェスチャーでスリープ解除</string>
     <string name="wake_on_gesture_summary">ジェスチャー動作によって通知を点滅表示させる代わりに端末を復帰させる</string>
