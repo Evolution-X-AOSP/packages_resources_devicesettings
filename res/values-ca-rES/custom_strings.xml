@@ -210,7 +210,7 @@
     <string name="touch_resistant_title">Àrea resistent al tacte</string>
     <string name="touch_resistant_summary">Redueix la sensibilitat a prop de les vores per evitar tocs accidentals</string>
     <!-- Button settings -->
-    <string name="button_settings_title">Grum</string>
+    <string name="button_settings_title">Botons</string>
     <string name="button_swap_summary">Intercanviar els botons de navegació</string>
     <string name="home_button_extra_settings">Personalitzar el comportament del botó d\' inici</string>
     <!-- Assistant button -->

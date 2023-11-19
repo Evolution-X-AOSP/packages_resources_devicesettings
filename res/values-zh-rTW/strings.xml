@@ -94,6 +94,7 @@
     <string name="actions_title">動作</string>
     <string name="device_gestures_panel_summary">特殊裝置手勢</string>
     <string name="moto_gestures_panel_title">Moto 手勢</string>
+    <!-- Camera gesture -->
     <string name="camera_gesture_title">雙重扭動</string>
     <string name="camera_gesture_summary">雙重扭動手勢時啟動相機</string>
     <!-- Chop-chop gesture -->
